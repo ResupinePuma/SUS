@@ -1,4 +1,4 @@
-# Simple Universal Sraper
+# Simple Universal Scraper
 
 Scrape Telegram, Reddit and Rss by link. This is demo project.
 
