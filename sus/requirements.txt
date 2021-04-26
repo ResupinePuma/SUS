@@ -1,0 +1,5 @@
+pytz==2019.3
+lxml==4.5.0
+requests==2.22.0
+dataclasses==0.8
+sus==1.2.0
