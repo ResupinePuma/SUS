@@ -1,4 +1,4 @@
-# Simple Universal sus
+# Simple Universal Sraper
 
 Scrape Telegram, Reddit and Rss by link. This is demo project.
 
