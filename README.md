@@ -27,7 +27,6 @@ Output example
 {
     "https://some_url" : Publication(title, content, url, media)
 }
-
 ```
 
 ## To-Do
