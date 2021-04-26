@@ -22,8 +22,8 @@ class Telegram(Parser):
     def Prepare_url(self, url):
         if not "https://t.me/" in url[:13]:
             raise BadUrlException("Bad url")
-        if url[-1] == "/":
-            url == url[:-1]
+        while url[-1] == "/":
+            url = url[:-1]
         url = url.replace("https://t.me/", "").split("/")
         if "s" in url:
             url.remove("s")

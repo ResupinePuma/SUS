@@ -1,0 +1,137 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+    method: HEAD
+    uri: https://feeds.bbci.co.uk/news/world/europe/rss.xml
+  response:
+    body:
+      string: ''
+    headers:
+      Cache-Control:
+      - max-age=122
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Length:
+      - '20'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Date:
+      - Mon, 26 Apr 2021 18:53:00 GMT
+      Server:
+      - Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+      Timing-Allow-Origin:
+      - https://www.bbc.co.uk, https://www.bbc.com
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+    method: GET
+    uri: https://feeds.bbci.co.uk/news/world/europe/rss.xml
+  response:
+    body:
+      string: !!binary |
+        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
+        7u676jP+8vX8/6WbQJvBLgAA
+    headers:
+      Cache-Control:
+      - max-age=173
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Length:
+      - '3096'
+      Content-Type:
+      - text/xml; charset=utf-8
+      Date:
+      - Mon, 26 Apr 2021 18:53:01 GMT
+      Server:
+      - Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+      Timing-Allow-Origin:
+      - https://www.bbc.co.uk, https://www.bbc.com
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+    status:
+      code: 200
+      message: OK
+version: 1

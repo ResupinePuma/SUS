@@ -23,7 +23,7 @@ class RSS(Parser):
     def Prepare_url(self, url):
         session = Network()
         response = session.head(f"{url}", timeout=10)
-        if response.status_code == 200 and "application/rss+xml" in response.headers.get("content-type"):
+        if response.status_code == 200 and ("rss" in response.headers.get("content-type") or "xml" in response.headers.get("content-type")):
             return url, url
         else:
             raise BadUrlException("Maybe not rss feed")
@@ -58,9 +58,13 @@ class RSS(Parser):
         text = self.Extract_text(html.fromstring(html_str))
         return {"content" : text}
 
-    def GetPublishedDate(self, element : object, **kwargs): 
+    def GetPublishedDate(self, element : object, **kwargs):
         time = element.xpath('./pubDate/text()', namespaces=self.__namespaces)[0]
-        return {"publishedDate" : datetime.datetime.strptime(time, "%a, %d %b %Y %H:%M:%S %z").replace(tzinfo=utc)}
+        try:
+            time = datetime.datetime.strptime(time, "%a, %d %b %Y %H:%M:%S %z").replace(tzinfo=utc)
+        except:
+            time = datetime.datetime.strptime(time, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=utc)
+        return {"publishedDate" : time}
 
     def GetURL(self, element : object, **kwargs):    
         e = element.xpath('./link/text()', namespaces=self.__namespaces)[0]  
@@ -105,7 +109,7 @@ class RSS(Parser):
             try:
                 log.info(f"Parsing url: {url}")
                 response = session.get(f"{url}", timeout=10)
-                if response.status_code == 200 and "application/rss+xml" in response.headers.get("content-type"):
+                if response.status_code == 200 and ("rss" in response.headers.get("content-type") or "xml" in response.headers.get("content-type")):
                     response_text = response.content
                     break
             except Exception as ex:

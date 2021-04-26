@@ -22,10 +22,10 @@ class Reddit(Parser):
         self.__namespaces = {'atom': 'http://www.w3.org/2005/Atom'}
 
     def Prepare_url(self, url: str):
-        if not "https://www.reddit.com/" in url[:23] or "https://old.reddit.com/" in url[:23] or "https://reddit.com/" in url[:19]:
+        if not ("https://www.reddit.com/" in url[:23] or "https://old.reddit.com/" in url[:23] or "https://reddit.com/" in url[:19]):
             raise BadUrlException("Bad url")
-        if url[-1] == "/":
-            url == url[:-1]
+        while url[-1] == "/":
+            url = url[:-1]
         return url, url
 
     def Extract_text(self, xpath_results):
@@ -111,8 +111,7 @@ class Reddit(Parser):
             for _ in range(3):
                 try:
                     log.info(f"Parsing url: {url}/new/.xml?after={last_id}")
-                    response = session.get(
-                        f"{url}/new/.xml?after={last_id}", timeout=10)
+                    response = session.get(f"{url}/new.xml?after={last_id}", timeout=10)
                     if response.status_code == 200 and "application/atom+xml" in response.headers.get("content-type"):
                         response_text = response.content
                         break
