@@ -19,7 +19,6 @@ urls = ["https://t.me/<some channel>","https://reddit.com/r/<some thread>,"<some
 
 s = sus()
 results = s.parse(urls)
-
 ```
 
 Output example
