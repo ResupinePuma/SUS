@@ -17,7 +17,7 @@ class EngineTests(unittest.TestCase):
     @vcr.use_cassette('./sus/tests/cassettes/rss.yaml')
     def test_rss(self):
         self.assertEqual(len(rss.scrab(
-            {"url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"})), 8)
+            {"url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"})), 9)
 
 
             
