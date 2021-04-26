@@ -1,4 +1,4 @@
-# Simple Universal Scraper [![Python package](https://github.com/ResupinePuma/SUS/actions/workflows/python-package.yml/badge.svg)](https://github.com/ResupinePuma/SUS/actions/workflows/python-package.yml)
+# Simple Universal Scraper
 
 Scrape Telegram, Reddit and Rss by link. This is demo project.
 
