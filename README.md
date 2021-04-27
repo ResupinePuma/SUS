@@ -13,11 +13,11 @@ pip install .
 ## Usage
 
 ```
-from sus import sus
+from sus import Scraper
 
 urls = ["https://t.me/<some channel>","https://reddit.com/r/<some thread>,"<some rss url>"]
 
-s = sus()
+s = Scraper()
 results = s.parse(urls)
 ```
 
