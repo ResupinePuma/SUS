@@ -14,7 +14,7 @@ class EngineTests(unittest.TestCase):
 
     @vcr.use_cassette('./sus/tests/cassettes/rss.yaml')
     def test_rss(self):
-        self.assertGreater(len(rss.scrab({"url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"})), 0)
+        self.assertGreater(len(rss.scrab({"url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml", "time_limit_hours": 24*31})), 0)
 
 
             
