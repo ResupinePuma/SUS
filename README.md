@@ -14,7 +14,7 @@ cd SUS && pip install .
 ## Usage
 
 ```
-from sus import Scraper
+from SUS.sus import Scraper
 
 urls = ["https://t.me/<some channel>","https://reddit.com/r/<some thread>,"<some rss url>"]
 
