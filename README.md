@@ -6,7 +6,7 @@ Scrape Telegram, Reddit and Rss by link. This is demo project.
 ## Install
 
 ```
-git clone https://github.com/ResupinePuma/SUS
+git clone https://github.com/ResupinePuma/SUS.git
 pip install . 
 ```
 
