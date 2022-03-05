@@ -6,15 +6,15 @@ Scrape Telegram, Reddit and Rss by link. This is demo project.
 ## Install
 
 ```
-git clone https://github.com/ResupinePuma/SUS
-pip install . 
+git clone https://github.com/ResupinePuma/SUS.git
+cd SUS && pip install . 
 ```
 
 
 ## Usage
 
 ```
-from sus import Scraper
+from SUS.sus import Scraper
 
 urls = ["https://t.me/<some channel>","https://reddit.com/r/<some thread>,"<some rss url>"]
 
