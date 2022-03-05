@@ -1,0 +1,1244 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+    method: GET
+    uri: https://www.reddit.com/r/announcements/new.xml?after=
+  response:
+    body:
+      string: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><feed xmlns=\"http://www.w3.org/2005/Atom\"\
+        \ xmlns:media=\"http://search.yahoo.com/mrss/\"><category term=\"announcements\"\
+        \ label=\"r/announcements\"/><updated>2022-03-05T11:04:29+00:00</updated><icon>https://www.redditstatic.com/icon.png/</icon><id>/r/announcements/new.xml?after=</id><link\
+        \ rel=\"self\" href=\"https://www.reddit.com/r/announcements/new.xml?after=\"\
+        \ type=\"application/atom+xml\" /><link rel=\"alternate\" href=\"https://www.reddit.com/r/announcements/new?after=\"\
+        \ type=\"text/html\" /><subtitle>Official announcements from Reddit, Inc.</subtitle><title>newest\
+        \ submissions : announcements</title><entry><author><name>/u/worstnerd</name><uri>https://www.reddit.com/user/worstnerd</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/worstnerd&quot;&gt;\
+        \ /u/worstnerd &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/redditsecurity/comments/pfyqqn/covid_denialism_and_policy_clarifications/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/pg006s/covid_denialism_and_policy_clarifications/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_pg006s</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/pg006s/covid_denialism_and_policy_clarifications/\"\
+        \ /><updated>2021-09-01T18:32:03+00:00</updated><published>2021-09-01T18:32:03+00:00</published><title>COVID\
+        \ denialism and policy clarifications</title></entry><entry><author><name>/u/spez</name><uri>https://www.reddit.com/user/spez</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone\u2013\
+        &lt;/p&gt; &lt;p&gt;The pandemic has been extremely hard on many of us. We\
+        \ believe the best way forward for everyone is to &lt;a href=&quot;https://www.cdc.gov/coronavirus/2019-ncov/index.html&quot;&gt;get\
+        \ vaccinated&lt;/a&gt; and continue to follow &lt;a href=&quot;https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html&quot;&gt;CDC\
+        \ guidance on masking&lt;/a&gt;. Throughout the pandemic, we have also provided\
+        \ COVID-related resources to support our volunteer moderators, users, and\
+        \ communities, including a dedicated AMA series connecting users with &lt;a\
+        \ href=&quot;https://redditblog.com/2020/03/02/expert-conversation-on-coronavirus/&quot;&gt;authoritative\
+        \ experts on coronavirus&lt;/a&gt; and &lt;a href=&quot;https://redditblog.com/2021/01/28/introducing-a-new-reddit-ama-series-everything-you-want-to-know-about-covid-19-vaccines/&quot;&gt;vaccines&lt;/a&gt;,\
+        \ as well as deploying homepage and search page banners directing users to\
+        \ the CDC and &lt;a href=&quot;/r/Coronavirus&quot;&gt;r/Coronavirus&lt;/a&gt;.&lt;/p&gt;\
+        \ &lt;p&gt;We appreciate that not everyone agrees with the current approach\
+        \ to getting us all through the pandemic, and some are still wary of vaccinations.\
+        \ Dissent is a part of Reddit and the foundation of democracy. Reddit is a\
+        \ place for open and authentic discussion and debate. This includes conversations\
+        \ that question or disagree with popular consensus. This includes conversations\
+        \ that criticize those that disagree with the majority opinion. This includes\
+        \ protests that criticize or object to our decisions on which communities\
+        \ to ban from the platform.&lt;/p&gt; &lt;p&gt;While we appreciate the sentiment\
+        \ of those demanding that we ban more communities that challenge consensus\
+        \ views on the pandemic, we continue to believe in the good of our communities\
+        \ and hope that we collectively approach the challenges of the pandemic with\
+        \ empathy, compassion, and a willingness to understand what others are going\
+        \ through, even when their viewpoint on the pandemic is different from yours.\
+        \ &lt;/p&gt; &lt;p&gt;When it comes to COVID-19 specifically, what we know\
+        \ and what are the current best practices from authoritative sources, like\
+        \ the CDC, evolve continuously with new learnings. Given the rapid state of\
+        \ change, we believe it is best to enable communities to engage in debate\
+        \ and dissent, and for us to link to the CDC wherever appropriate. While we\
+        \ believe the CDC is the best and most up to date source of information regarding\
+        \ COVID-19, disagreeing with them is not against our policies.&lt;/p&gt; &lt;p&gt;However,\
+        \ manipulating or cheating Reddit to amplify any particular viewpoint is against\
+        \ our policies, and we will continue to action communities that do so or that\
+        \ violate any of our other rules, including those dedicated to fraud (e.g.\
+        \ fake vaccine cards) or encouraging harm (e.g. consuming bleach); and we\
+        \ will continue to use our quarantine tool to link to authoritative sources\
+        \ and warn people they may encounter unsound advice. We humbly ask and encourage\
+        \ everyone to report content that may violate our policies.&lt;/p&gt; &lt;p&gt;*We\
+        \ are using our &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/ipitt0/today_were_testing_a_new_way_to_discuss_political/&quot;&gt;political\
+        \ ads system&lt;/a&gt; to facilitate discussion of this post within the context\
+        \ of your own communities.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32;\
+        \ submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spez&quot;&gt;\
+        \ /u/spez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/pbmy5y/debate_dissent_and_protest_on_reddit/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/pbmy5y/debate_dissent_and_protest_on_reddit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_pbmy5y</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/pbmy5y/debate_dissent_and_protest_on_reddit/\"\
+        \ /><updated>2021-08-25T23:15:02+00:00</updated><published>2021-08-25T23:15:02+00:00</published><title>Debate,\
+        \ dissent, and protest on Reddit</title></entry><entry><author><name>/u/KeyserSosa</name><uri>https://www.reddit.com/user/KeyserSosa</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Today is a\
+        \ difficult one:. 2021 will be the last year of Reddit Gifts. We will continue\
+        \ to run exchanges through the end of the year -- including the last ever\
+        \ Arbitrary Day (signups are &lt;a href=&quot;https://www.redditgifts.com/exchanges/a-day-21/&quot;&gt;now\
+        \ open&lt;/a&gt;) -- and will end with Secret Santa 2021. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;We\
+        \ didn\u2019t make this decision lightly.&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;We\
+        \ made the difficult decision to shut down Reddit Gifts and put more focus\
+        \ on enhancing the &lt;a href=&quot;https://www.reddit.com/r/blog/comments/mqcpcg/you_want_a_better_reddit_search_ok_were_on_it/&quot;&gt;user\
+        \ experience&lt;/a&gt; on Reddit - this includes &lt;a href=&quot;https://www.reddit.com/r/blog/comments/ldgmfc/diamond_hands_on_the_data/&quot;&gt;investing&lt;/a&gt;\
+        \ in the &lt;a href=&quot;https://www.reddit.com/r/RedditEng/comments/nudfv1/the_rollout_of_reputation_service/&quot;&gt;foundation&lt;/a&gt;\
+        \ &lt;a href=&quot;https://www.reddit.com/r/blog/comments/lb2p7a/a_new_video_player_updated_email_designs_mobile/&quot;&gt;of\
+        \ our&lt;/a&gt; &lt;a href=&quot;https://www.reddit.com/r/RedditEng/comments/neknjg/evolving_beyond_100_billion_recommendations_a_day/&quot;&gt;platform&lt;/a&gt;\
+        \ and &lt;a href=&quot;https://www.reddit.com/r/blog/comments/nk7p7j/new_updates_to_help_moderators_your_monthly/&quot;&gt;moderator\
+        \ tools&lt;/a&gt;, making it more &lt;a href=&quot;https://www.reddit.com/r/blog/comments/mzse3p/control_over_your_followers_spring_avatar_gear_a/&quot;&gt;accessible&lt;/a&gt;\
+        \ for people around the world and evolving how people &lt;a href=&quot;https://www.reddit.com/r/redditsecurity/comments/nmhmj0/q1_safety_security_report_may_27_2021/&quot;&gt;engage&lt;/a&gt;\
+        \ with one another. &lt;/p&gt; &lt;p&gt;The power of Reddit Gifts was never\
+        \ in the software, and has always belonged to the &lt;a href=&quot;/r/secretsanta&quot;&gt;r/secretsanta&lt;/a&gt;\
+        \ community of gifters around the world, which has connected people and been\
+        \ an extension of our mission to bring community and belonging to everyone\
+        \ in the world. We\u2019re hopeful that spirit will continue in the future.\
+        \ &lt;/p&gt; &lt;p&gt;&lt;strong&gt;What this means for future exchanges in\
+        \ 2021&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;In preparation for retiring Reddit\
+        \ Gifts after the final exchange at the end of 2021, we will be taking the\
+        \ following actions: &lt;/p&gt; &lt;ul&gt; &lt;li&gt;In order to limit incomplete\
+        \ exchanges, we have disabled the creation of any new Reddit Gifts accounts.\
+        \ If you have an existing Reddit Gifts account, we would love it if you would\
+        \ participate with us in these final exchanges. &lt;/li&gt; &lt;li&gt;Any\
+        \ incomplete exchanges will result in a ban from the remaining Reddit Gifts\
+        \ exchanges.&lt;/li&gt; &lt;li&gt;This morning, we turned off the ability\
+        \ to buy &lt;a href=&quot;https://www.redditgifts.com/Elves/&quot;&gt;Elves&lt;/a&gt;.\
+        \ If you purchased an Elves membership and have remaining months after the\
+        \ 2021 Secret Santa Exchange, we will email you about your refund options\
+        \ then. If you have specific concerns about your Elves membership, please\
+        \ reach out to Reddit Gifts &lt;a href=&quot;https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000825092&quot;&gt;support&lt;/a&gt;.\
+        \ &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;These changes have been put in place to\
+        \ ensure that these last exchanges are enjoyable for the legacy Reddit Gifts\
+        \ users. We want to celebrate the end of Reddit Gifts with the community that\
+        \ we\u2019ve built so far. &lt;/p&gt; &lt;p&gt;Countless acts of love, heroism,\
+        \ compassion, support, growth and hilarity happened through Reddit Gifts,\
+        \ and those memories will live on in the hearts of our community. We\u2019\
+        re working on ways to capture these moments and look forward to seeing how\
+        \ the spirit and connection of exchanging gifts with strangers will live on.\
+        \ I\u2019m sure you will all have a ton of questions, and we will be here\
+        \ to answer them.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted\
+        \ by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/KeyserSosa&quot;&gt;\
+        \ /u/KeyserSosa &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_nw2hs6</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/nw2hs6/sunsetting_secret_santa_and_reddit_gifts/\"\
+        \ /><updated>2021-06-09T18:17:11+00:00</updated><published>2021-06-09T18:17:11+00:00</published><title>Sunsetting\
+        \ Secret Santa and Reddit Gifts</title></entry><entry><author><name>/u/powerlanguage</name><uri>https://www.reddit.com/user/powerlanguage</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Picking a winner\
+        \ is easy.&lt;/p&gt; &lt;p&gt;But what if second was first instead,&lt;/p&gt;\
+        \ &lt;p&gt;And we celebrated the second guessers?&lt;/p&gt; &lt;h2&gt;&lt;/h2&gt;\
+        \ &lt;p&gt;To play, visit &lt;a href=&quot;/r/Second&quot;&gt;r/Second&lt;/a&gt;\
+        \ on &lt;a href=&quot;https://www.reddit.com/mobile/download&quot;&gt;iOS&lt;/a&gt;,\
+        \ &lt;a href=&quot;https://www.reddit.com/mobile/download&quot;&gt;Android&lt;/a&gt;,\
+        \ or your &lt;a href=&quot;http://new.reddit.com/r/second&quot;&gt;browser&lt;/a&gt;,&lt;/p&gt;\
+        \ &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a\
+        \ href=&quot;https://www.reddit.com/user/powerlanguage&quot;&gt; /u/powerlanguage\
+        \ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/mi01fg/second/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/mi01fg/second/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_mi01fg</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/mi01fg/second/\"\
+        \ /><updated>2021-04-01T17:14:12+00:00</updated><published>2021-04-01T17:14:12+00:00</published><title>Second</title></entry><entry><author><name>/u/spez</name><uri>https://www.reddit.com/user/spez</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We would like\
+        \ to give you all an update on the recent issues that have transpired concerning\
+        \ a specific Reddit employee, as well as provide you with context into actions\
+        \ that we took to prevent doxxing and harassment.&lt;/p&gt; &lt;p&gt;As of\
+        \ today, the employee in question is no longer employed by Reddit. We built\
+        \ a relationship with her first as a mod and then through her contractor work\
+        \ on RPAN. We did not adequately vet her background before formally hiring\
+        \ her. &lt;/p&gt; &lt;p&gt;We\u2019ve put significant effort into improving\
+        \ how we handle doxxing and harassment, and this employee was the subject\
+        \ of both. In this case, we over-indexed on protection, which had serious\
+        \ consequences in terms of enforcement actions. &lt;/p&gt; &lt;ul&gt; &lt;li&gt;On\
+        \ March 9th, we added extra protections for this employee, including actioning\
+        \ content that mentioned the employee\u2019s name or shared personal information\
+        \ on third-party sites, which we reserve for serious cases of harassment and\
+        \ doxxing.&lt;/li&gt; &lt;li&gt;On March 22nd, a news article about this employee\
+        \ was posted by a mod of &lt;a href=&quot;/r/ukpolitics&quot;&gt;r/ukpolitics&lt;/a&gt;.\
+        \ The article was removed and the submitter banned by the aforementioned rules.\
+        \ When contacted by the moderators of &lt;a href=&quot;/r/ukpolitics&quot;&gt;r/ukpolitics&lt;/a&gt;,\
+        \ we reviewed the actions, and reversed the ban on the moderator, and we informed\
+        \ the &lt;a href=&quot;/r/ukpolitics&quot;&gt;r/ukpolitics&lt;/a&gt; moderation\
+        \ team that we had restored the mod.&lt;/li&gt; &lt;li&gt;We updated our rules\
+        \ to flag potential harassment for human review.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Debate\
+        \ and criticism have always been and always will be central to conversation\
+        \ on Reddit\u2014including discussion about public figures and Reddit itself\u2014\
+        as long as they are not used as vehicles for harassment. Mentioning a public\
+        \ figure\u2019s name should not get you banned.&lt;/p&gt; &lt;p&gt;We care\
+        \ deeply for Reddit and appreciate that you do too. We understand the anger\
+        \ and confusion about these issues and their bigger implications. The employee\
+        \ is no longer with Reddit, and we\u2019ll be evolving a number of relevant\
+        \ internal policies.&lt;/p&gt; &lt;p&gt;We did not operate to our own standards\
+        \ here. We will do our best to do better for you.&lt;/p&gt; &lt;/div&gt;&lt;!--\
+        \ SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spez&quot;&gt;\
+        \ /u/spez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/mcisdf/an_update_on_the_recent_issues_surrounding_a/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/mcisdf/an_update_on_the_recent_issues_surrounding_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_mcisdf</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/mcisdf/an_update_on_the_recent_issues_surrounding_a/\"\
+        \ /><updated>2021-03-24T22:37:47+00:00</updated><published>2021-03-24T22:37:47+00:00</published><title>An\
+        \ update on the recent issues surrounding a Reddit employee</title></entry><entry><author><name>/u/spez</name><uri>https://www.reddit.com/user/spez</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In case you\
+        \ missed &lt;a href=&quot;https://www.reddit.com/r/mildlyinteresting/comments/ikxsst/this_reddit_billboard_advertisement_for_their/&quot;&gt;the&lt;/a&gt;\
+        \ &lt;a href=&quot;https://www.reddit.com/r/pics/comments/ilhck2/saw_one_in_the_wild_make_sure_to_vote_illinois/&quot;&gt;billboards&lt;/a&gt;,\
+        \ &lt;a href=&quot;https://redditblog.com/2020/09/01/its-national-poll-worker-recruitment-day-become-a-poll-worker-this-election-and-help-power-the-polls-in-your-community/&quot;&gt;blog\
+        \ posts&lt;/a&gt;, and &lt;a href=&quot;https://redditblog.com/2020/08/25/voting-in-america/&quot;&gt;AMAs&lt;/a&gt;,\
+        \ we\u2019re doing our best to encourage people on and off Reddit to vote\
+        \ this year. Along with our &lt;a href=&quot;https://redditblog.com/2020/07/29/up-the-vote-reddits-irl-2020-voting-campaign/&quot;&gt;Up\
+        \ the Vote campaign&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/redditsecurity/&quot;&gt;ongoing\
+        \ security and safety work&lt;/a&gt; to guard against shenanigans, we\u2019\
+        ve also been evolving how we handle another important aspect of the election\
+        \ process: &lt;strong&gt;political ads&lt;/strong&gt;.&lt;/p&gt; &lt;h2&gt;First,\
+        \ some background&lt;/h2&gt; &lt;p&gt;Political ads have been a relatively\
+        \ quiet part of Reddit for many years. Last year, in thinking through what\
+        \ the right balance was between unfettered political ads and prohibiting them\
+        \ altogether for 2020 (both approaches that other platforms have taken), we\
+        \ decided on &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/g0s6tn/changes_to_reddits_political_ads_policy/&quot;&gt;a\
+        \ policy we felt was the best approach for Reddit&lt;/a&gt;: no misinformation,\
+        \ human review of the ads and where they link, a subreddit listing all political\
+        \ ads (&lt;a href=&quot;https://www.reddit.com/r/RedditPoliticalAds/&quot;&gt;r/RedditPoliticalAds&lt;/a&gt;),\
+        \ and a requirement to keep comments on for 24 hours.&lt;/p&gt; &lt;p&gt;Since\
+        \ debuting this policy earlier this year, the last condition (requiring comments\
+        \ to remain on) has enabled redditors to discuss political ads\u2014providing\
+        \ more context in the comments and even offering counterarguments\u2014but\
+        \ so far it\u2019s only been lightly used. As we get closer to November, however,\
+        \ the prominence of and discussion around political ads will increase, and,\
+        \ with it, the need for a clear moderation system for these comments.&lt;/p&gt;\
+        \ &lt;h2&gt;The problem we\u2019re addressing&lt;/h2&gt; &lt;p&gt;As I mentioned\
+        \ &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/hi3oht/update_to_our_content_policy/fwdxoty/?utm_source=reddit&amp;amp;utm_medium=web2x&amp;amp;context=3&amp;amp;depth=2&quot;&gt;a\
+        \ couple months back&lt;/a&gt;, unmoderated spaces on Reddit are an area we\
+        \ want to improve, from Modmail to PM\u2019s, and political ads pose a unique\
+        \ challenge.&lt;/p&gt; &lt;p&gt;If the OP of a political ad (i.e., a campaign)\
+        \ moderates the comments, it\u2019s problematic: they might remove dissenting\
+        \ perspectives. And if we (the admins) moderate the comments of a political\
+        \ ad, it\u2019s even more problematic, putting us in the position of either\
+        \ moderating too much or too little, with inevitable accusations of bias either\
+        \ way.&lt;/p&gt; &lt;p&gt;The problem, we realized, is similar to what we\
+        \ see in &lt;a href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt;:\
+        \ lots of people commenting on a highly visible post outside the context of\
+        \ a community. It\u2019s fair to say that &lt;a href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt;\
+        \ isn\u2019t really a community; it lacks the culture, cohesion, and moderation\
+        \ that benefit most other subreddits, and as a result, the quality of conversation\
+        \ has deteriorated as the audience has grown.&lt;/p&gt; &lt;p&gt;Ultimately,\
+        \ conversations really only happen in the context of a community, and neither\
+        \ &lt;a href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt; nor\
+        \ political ads with comments on provide this. We believe we can foster better\
+        \ discussion on both with a different approach.&lt;/p&gt; &lt;h2&gt;What we\u2019\
+        re testing today&lt;/h2&gt; &lt;p&gt;Instead of having the usual free-for-all\
+        \ of comments on the &lt;a href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt;\
+        \ post itself, we are trying out a new experience today that encourages discussion\
+        \ of this post within other communities\u2014an approach we hope works for\
+        \ political ads as well.&lt;/p&gt; &lt;p&gt;Below is a stickied comment with\
+        \ a link to submit this post to other communities on Reddit and a list of\
+        \ those discussion posts. The stickied comment will update automatically with\
+        \ new posts.&lt;/p&gt; &lt;p&gt;A few other details to note for this test:&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;&lt;strong&gt;The discussion posts are like any other\
+        \ post&lt;/strong&gt;, which means they can be voted on by users and removed\
+        \ by mods.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Communities that don\u2019t\
+        \ want to participate don\u2019t have to.&lt;/strong&gt; (If you\u2019re a\
+        \ mod of a community where a user attempts to crosspost this, you will get\
+        \ a Modmail alerting you to this with &lt;a href=&quot;https://www.reddit.com/r/modnews/comments/ilc4zc/testing_a_new_admin_post_type/&quot;&gt;opt-out\
+        \ instructions&lt;/a&gt;.)&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Individual community\
+        \ rules apply to these posts just as any other&lt;/strong&gt;, so read the\
+        \ rules before attempting to bring the discussion into a completely unrelated\
+        \ community.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Our stickied comment will\
+        \ link to discussions only from communities subject to our ads allow list.&lt;/strong&gt;\
+        \ Communities that have already opted not to appear in &lt;a href=&quot;/r/all&quot;&gt;r/all&lt;/a&gt;\
+        \ won\u2019t appear in the comment either, even if there is a discussion of\
+        \ this post there.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;After today\u2019s test,\
+        \ we will likely test this system with political ads.&lt;/strong&gt;&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;This test will be a success if there are a variety\
+        \ of posts and conversations about this post, even\u2014and perhaps particularly\u2014\
+        if they are critical.&lt;/p&gt; &lt;h2&gt;How we\u2019re answering questions&lt;/h2&gt;\
+        \ &lt;p&gt;&lt;a href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt;\
+        \ posts have an important difference from political ads: I treat them as AMAs\
+        \ and do my best to answer questions and respond to criticism (both of which\
+        \ I appreciate). With this approach, I expect doing so will be more difficult\
+        \ (at least this first time). However, the point of this test is not to make\
+        \ you hunt for our answers or for us to reply to fewer questions, and we don\u2019\
+        t intend to use this approach for all our admin posts (e.g., in &lt;a href=&quot;/r/ModNews&quot;&gt;r/ModNews&lt;/a&gt;,\
+        \ &lt;a href=&quot;/r/changelog&quot;&gt;r/changelog&lt;/a&gt;, &lt;a href=&quot;/r/ModSupport&quot;&gt;r/ModSupport&lt;/a&gt;,\
+        \ and others, which are smaller subreddits that still work well).&lt;/p&gt;\
+        \ &lt;p&gt;For today, we\u2019re going to make the first link of this post\
+        \ to &lt;a href=&quot;/r/ModNews&quot;&gt;r/ModNews&lt;/a&gt; and start by\
+        \ answering mods\u2019 questions there. In a future announcement, we may ask\
+        \ a specific community if they would host us for the discussion that day (depending\
+        \ on what the announcement is) and set that as an official destination for\
+        \ discussion, like a regular AMA.&lt;/p&gt; &lt;p&gt;Additionally, I\u2019\
+        ll do my best to find other places to respond, and we\u2019ll maintain another\
+        \ comment below this post to list replies we\u2019ve given outside of &lt;a\
+        \ href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt; so you can\
+        \ easily find our responses (which was a feature request from &lt;a href=&quot;https://www.reddit.com/r/modnews/comments/ilc4zc/testing_a_new_admin_post_type/g3r4xpm/&quot;&gt;our\
+        \ post&lt;/a&gt; last week).&lt;/p&gt; &lt;p&gt;Ultimately, the goal of this\
+        \ test is to enable Reddit to do what Reddit does best: facilitate conversations\
+        \ (within the context of a community), provide commentary on political ads\
+        \ the way redditors already do on news and politics daily (sharing more information\
+        \ and calling bullshit in the comments when necessary), and extend the discussion\
+        \ well beyond the scope of the original post.&lt;/p&gt; &lt;p&gt;Thank you\
+        \ for participating. We hope this approach sets the stage for successful commentary\
+        \ not just today but down the road on political ads as well.&lt;/p&gt; &lt;p&gt;Steve&lt;/p&gt;\
+        \ &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Edit (9/28/20):&lt;/strong&gt;\
+        \ Update: After initial testing and a few small tweaks to the sorting and\
+        \ score display of the links in stickied comments like the one below, we\u2019\
+        ll be using this discussion system on political ads moving forward. &lt;/p&gt;\
+        \ &lt;p&gt;As I mentioned, our goal with this approach was to encourage these\
+        \ types of discussions to happen within the context of a community. While\
+        \ this feature is completely optional for communities (opt-out instructions\
+        \ &lt;a href=&quot;https://www.reddit.com/r/modnews/comments/ilc4zc/testing_a_new_admin_post_type/&quot;&gt;here&lt;/a&gt;),\
+        \ we were pleased overall with the level of engagement that we saw from communities\
+        \ and users on this test post.&lt;/p&gt; &lt;p&gt;We\u2019re still exploring\
+        \ how we\u2019ll use this feature for &lt;a href=&quot;/r/announcements&quot;&gt;r/announcements&lt;/a&gt;\
+        \ posts and how we can work with specific communities to have discussions\
+        \ about them. In the meantime, you can see our updated political ads policy\
+        \ on our &lt;a href=&quot;https://advertising.reddithelp.com/en/categories/reddit-advertising-policy/reddit-advertising-policy-overview&quot;&gt;Advertising\
+        \ Policy Help Page&lt;/a&gt;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32;\
+        \ submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spez&quot;&gt;\
+        \ /u/spez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/ipitt0/today_were_testing_a_new_way_to_discuss_political/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/ipitt0/today_were_testing_a_new_way_to_discuss_political/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_ipitt0</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/ipitt0/today_were_testing_a_new_way_to_discuss_political/\"\
+        \ /><updated>2020-09-09T16:06:16+00:00</updated><published>2020-09-09T16:06:16+00:00</published><title>Today\
+        \ we\u2019re testing a new way to discuss political ads (and announcements)</title></entry><entry><author><name>/u/LanterneRougeOG</name><uri>https://www.reddit.com/user/LanterneRougeOG</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LanterneRougeOG&quot;&gt;\
+        \ /u/LanterneRougeOG &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/hrrh23&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/hrrh23/now_you_can_make_posts_with_multiple_images/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_hrrh23</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/hrrh23/now_you_can_make_posts_with_multiple_images/\"\
+        \ /><updated>2020-07-15T17:07:09+00:00</updated><published>2020-07-15T17:07:09+00:00</published><title>Now\
+        \ you can make posts with multiple images.</title></entry><entry><author><name>/u/spez</name><uri>https://www.reddit.com/user/spez</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/gxas21/upcoming_changes_to_our_content_policy_our_board/&quot;&gt;A\
+        \ few weeks ago&lt;/a&gt;, we committed to closing the gap between our values\
+        \ and our policies to explicitly address hate. After talking extensively with\
+        \ mods, outside organizations, and our own teams, we\u2019re updating our\
+        \ content policy today and enforcing it (with your help).&lt;/p&gt; &lt;h2&gt;First,\
+        \ a quick recap&lt;/h2&gt; &lt;p&gt;Since our last post, here\u2019s what\
+        \ we\u2019ve been doing:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;We brought\
+        \ on a&lt;/strong&gt; &lt;a href=&quot;https://redditblog.com/2020/06/10/reddit-welcomes-michael-seibel-to-board-of-directors/&quot;&gt;&lt;strong&gt;new\
+        \ Board member&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;We\
+        \ held policy calls with mods&lt;/strong&gt;\u2014both from established Mod\
+        \ Councils and from communities disproportionately targeted with hate\u2014\
+        and discussed areas where we can do better to action bad actors, clarify our\
+        \ policies, make mods&amp;#39; lives easier, and concretely reduce hate. &lt;ul&gt;\
+        \ &lt;li&gt;You can find &lt;a href=&quot;https://www.reddit.com/r/modnews/comments/hi3nkr/the_mod_conversations_that_went_into_todays&quot;&gt;detailed\
+        \ notes from our All-Council mod call here&lt;/a&gt;, including specific product\
+        \ work we discussed.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;We\
+        \ developed our enforcement plan&lt;/strong&gt;, including both our immediate\
+        \ actions (e.g., today\u2019s bans) and long-term investments (tackling the\
+        \ most critical work discussed in our mod calls, sustainably enforcing the\
+        \ new policies, and advancing Reddit\u2019s community governance).&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;From our conversations with mods and outside experts,\
+        \ it\u2019s clear that while we\u2019ve gotten better in some areas\u2014\
+        like actioning violations at the community level, &lt;a href=&quot;https://www.reddit.com/r/redditsecurity/comments/hbiuas/reddit_security_report_june_18_2020/&quot;&gt;scaling\
+        \ enforcement efforts&lt;/a&gt;, measurably reducing hateful experiences like\
+        \ harassment &lt;a href=&quot;https://www.adl.org/online-hate-2020#results&quot;&gt;year\
+        \ over year&lt;/a&gt;\u2014we still have a long way to go to address the gaps\
+        \ in our policies and enforcement to date.&lt;/p&gt; &lt;p&gt;These include\
+        \ addressing questions our policies have left unanswered (like whether hate\
+        \ speech is allowed or even protected on Reddit), aspects of our product and\
+        \ mod tools that are still too easy for individual bad actors to abuse (inboxes,\
+        \ chats, modmail), and areas where we can do better to partner with our mods\
+        \ and communities who want to combat the same hateful conduct we do.&lt;/p&gt;\
+        \ &lt;p&gt;Ultimately, it\u2019s our responsibility to support our communities\
+        \ by taking stronger action against those who try to weaponize parts of Reddit\
+        \ against other people. In the near term, this support will translate into\
+        \ some of the product work we discussed with mods. But it starts with dealing\
+        \ squarely with the hate we can mitigate today through our policies and enforcement.&lt;/p&gt;\
+        \ &lt;h2&gt;New Policy&lt;/h2&gt; &lt;p&gt;This is the &lt;a href=&quot;https://www.redditinc.com/policies/content-policy&quot;&gt;new\
+        \ content policy&lt;/a&gt;. Here\u2019s what\u2019s different:&lt;/p&gt; &lt;ul&gt;\
+        \ &lt;li&gt;It starts with a statement of our vision for Reddit and our communities,\
+        \ including the basic expectations we have for all communities and users.&lt;/li&gt;\
+        \ &lt;li&gt;&lt;strong&gt;Rule 1&lt;/strong&gt; explicitly states that communities\
+        \ and users that promote hate based on identity or vulnerability will be banned.\
+        \ &lt;ul&gt; &lt;li&gt;There is an expanded definition of what constitutes\
+        \ a violation of this rule, along with specific examples, in our &lt;a href=&quot;https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/promoting-hate-based-identity-or&quot;&gt;Help\
+        \ Center article&lt;/a&gt;.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Rule\
+        \ 2&lt;/strong&gt; ties together our previous rules on prohibited behavior\
+        \ with an ask to abide by community rules and post with authentic, personal\
+        \ interest. &lt;ul&gt; &lt;li&gt;Debate and creativity are welcome, but spam\
+        \ and malicious attempts to interfere with other communities are not.&lt;/li&gt;\
+        \ &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;The other rules are the same in spirit\
+        \ but have been rewritten for clarity and inclusiveness.&lt;/li&gt; &lt;/ul&gt;\
+        \ &lt;p&gt;Alongside the change to the content policy, we are initially banning\
+        \ about 2000 subreddits, the vast majority of which are inactive. Of these\
+        \ communities, about &lt;a href=&quot;https://www.redditstatic.com/banned-subreddits-june-2020.txt&quot;&gt;200&lt;/a&gt;\
+        \ have more than 10 daily users. Both &lt;a href=&quot;/r/The_Donald&quot;&gt;r/The_Donald&lt;/a&gt;\
+        \ and &lt;a href=&quot;/r/ChapoTrapHouse&quot;&gt;r/ChapoTrapHouse&lt;/a&gt;\
+        \ were included.&lt;/p&gt; &lt;p&gt;All communities on Reddit must abide by\
+        \ our content policy in good faith. We banned &lt;a href=&quot;/r/The_Donald&quot;&gt;r/The_Donald&lt;/a&gt;\
+        \ because it has not done so, despite every opportunity. The community has\
+        \ consistently hosted and upvoted more rule-breaking content than average\
+        \ (Rule 1), antagonized us and other communities (Rules 2 and 8), and its\
+        \ mods have refused to meet our most basic expectations. Until now, we\u2019\
+        ve worked in good faith to help them preserve the community as a space for\
+        \ its users\u2014through warnings, mod changes, quarantining, and more.&lt;/p&gt;\
+        \ &lt;p&gt;Though smaller, &lt;a href=&quot;/r/ChapoTrapHouse&quot;&gt;r/ChapoTrapHouse&lt;/a&gt;\
+        \ was banned for similar reasons: They consistently host rule-breaking content\
+        \ and their mods have demonstrated no intention of reining in their community.&lt;/p&gt;\
+        \ &lt;p&gt;To be clear, views across the political spectrum are allowed on\
+        \ Reddit\u2014but all communities must work within our policies and do so\
+        \ in good faith, without exception.&lt;/p&gt; &lt;h2&gt;Our commitment&lt;/h2&gt;\
+        \ &lt;p&gt;Our policies will never be perfect, with new edge cases that inevitably\
+        \ lead us to evolve them in the future. And as users, you will always have\
+        \ more context, community vernacular, and cultural values to inform the standards\
+        \ set within your communities than we as site admins or any AI ever could.&lt;/p&gt;\
+        \ &lt;p&gt;But just as our content moderation cannot scale effectively without\
+        \ your support, you need more support from us as well, and we admit we have\
+        \ fallen short towards this end. We are committed to working with you to combat\
+        \ the bad actors, abusive behaviors, and toxic communities that undermine\
+        \ our mission and get in the way of the creativity, discussions, and communities\
+        \ that bring us all to Reddit in the first place. We hope that our progress\
+        \ towards this commitment, with today\u2019s update and those to come, makes\
+        \ Reddit a place you enjoy and are proud to be a part of for many years to\
+        \ come.&lt;/p&gt; &lt;p&gt;Edit: After digesting feedback, we made a clarifying\
+        \ change to our help center article for &lt;a href=&quot;https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/promoting-hate-based-identity-or&quot;&gt;Promoting\
+        \ Hate Based on Identity or Vulnerability&lt;/a&gt;.&lt;/p&gt; &lt;/div&gt;&lt;!--\
+        \ SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spez&quot;&gt;\
+        \ /u/spez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/hi3oht/update_to_our_content_policy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/hi3oht/update_to_our_content_policy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_hi3oht</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/hi3oht/update_to_our_content_policy/\"\
+        \ /><updated>2020-06-29T17:00:06+00:00</updated><published>2020-06-29T17:00:06+00:00</published><title>Update\
+        \ to Our Content Policy</title></entry><entry><author><name>/u/spez</name><uri>https://www.reddit.com/user/spez</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR:\
+        \ We\u2019re working with mods to change our content policy to explicitly\
+        \ address hate.&lt;/strong&gt; &lt;a href=&quot;/u/kn0thing&quot;&gt;u/kn0thing&lt;/a&gt;\
+        \ &lt;strong&gt;has resigned from our board to fill his seat with a Black\
+        \ candidate, a request we will honor. I want to take responsibility for the\
+        \ history of our policies over the years that got us here, and we still have\
+        \ work to do.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;After watching people across\
+        \ the country mourn and demand an end to centuries of murder and violent discrimination\
+        \ against Black people, I wanted to speak out. I wanted to do this both as\
+        \ a human being, who sees this grief and pain and knows I have been spared\
+        \ from it myself because of the color of my skin, and as someone who literally\
+        \ has a platform and, with it, a duty to speak out.&lt;/p&gt; &lt;p&gt;Earlier\
+        \ this week, I wrote an email to our company addressing this crisis and a\
+        \ few ways Reddit will respond. When we shared it, many of the responses said\
+        \ something like, \u201CHow can a company that has faced racism from users\
+        \ on its own platform over the years credibly take such a position?\u201D\
+        &lt;/p&gt; &lt;p&gt;These questions, which I know are coming from a place\
+        \ of real pain and which I take to heart, are really a statement: There is\
+        \ an unacceptable gap between our beliefs as people and a company, and what\
+        \ you see in our content policy. &lt;/p&gt; &lt;p&gt;Over the last fifteen\
+        \ years, hundreds of millions of people have come to Reddit for things that\
+        \ I believe are fundamentally good: user-driven communities\u2014across a\
+        \ wider spectrum of interests and passions than I could\u2019ve imagined when\
+        \ we first created subreddits\u2014and the kinds of content and conversations\
+        \ that keep people coming back day after day. It&amp;#39;s why we come to\
+        \ Reddit as users, as mods, and as employees who want to bring this sort of\
+        \ community and belonging to the world and make it better daily.&lt;/p&gt;\
+        \ &lt;p&gt;However, as Reddit has grown, alongside much good, it is facing\
+        \ its own challenges around hate and racism. We have to acknowledge and accept\
+        \ responsibility for the role we have played. Here are three problems we are\
+        \ most focused on:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Parts of Reddit reflect\
+        \ an unflattering but real resemblance to the world in the hate that Black\
+        \ users and communities see daily, despite the progress we have made in improving\
+        \ our tooling and enforcement. &lt;/li&gt; &lt;li&gt;Users and moderators\
+        \ genuinely do not have enough clarity as to where we as administrators stand\
+        \ on racism. &lt;/li&gt; &lt;li&gt;Our moderators are frustrated and need\
+        \ a real seat at the table to help shape the policies that they help us enforce.&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;We are already working to fix these problems, and this\
+        \ is a promise for more urgency. Our current &lt;a href=&quot;https://www.redditinc.com/policies/content-policy&quot;&gt;content\
+        \ policy&lt;/a&gt; is effectively nine rules for what you cannot do on Reddit.\
+        \ In many respects, it\u2019s served us well. Under it, we have made meaningful\
+        \ progress cleaning up the platform (and done so without undermining the free\
+        \ expression and authenticity that fuels Reddit). That said, we still have\
+        \ work to do. This current policy lists only what you cannot do, articulates\
+        \ none of the values behind the rules, and does not explicitly take a stance\
+        \ on hate or racism.&lt;/p&gt; &lt;p&gt;We will update our content policy\
+        \ to include a vision for Reddit and its communities to aspire to, a statement\
+        \ on hate, the context for the rules, and a principle that Reddit isn\u2019\
+        t to be used as a weapon. We have details to work through, and while we will\
+        \ move quickly, I do want to be thoughtful and also gather feedback from our\
+        \ moderators (through our Mod Councils). With more moderator engagement, the\
+        \ timeline is weeks, not months.&lt;/p&gt; &lt;p&gt;And just this morning,\
+        \ Alexis Ohanian (&lt;a href=&quot;/u/kn0thing&quot;&gt;u/kn0thing&lt;/a&gt;),\
+        \ my Reddit cofounder, announced that he is resigning from our board and that\
+        \ he wishes for his seat to be filled with a Black candidate, a request that\
+        \ the board and I will honor. We thank Alexis for this meaningful gesture\
+        \ and all that he\u2019s done for us over the years.&lt;/p&gt; &lt;p&gt;At\
+        \ the risk of making this unreadably long, I&amp;#39;d like to take this moment\
+        \ to share how we got here in the first place, where we have made progress,\
+        \ and where, despite our best intentions, we have fallen short.&lt;/p&gt;\
+        \ &lt;p&gt;In the early days of Reddit, 2005\u20132006, our idealistic \u201C\
+        policy\u201D was that, excluding spam, we would not remove content. We were\
+        \ small and did not face many hard decisions. When this ideal was tested,\
+        \ we &lt;a href=&quot;https://www.reddit.com/r/reddit.com/comments/6m87a/can_we_ban_this_extremely_racist_asshole/c0497kd/?context=3&quot;&gt;banned\
+        \ racist users&lt;/a&gt; anyway. In the end, we acted based on our beliefs,\
+        \ despite our \u201Cpolicy.\u201D &lt;/p&gt; &lt;p&gt;I left Reddit from 2010\u2013\
+        2015. During this time, in addition to rapid user growth, Reddit\u2019s no-removal\
+        \ policy &lt;a href=&quot;https://redditblog.com/2014/09/06/every-man-is-responsible-for-his-own-soul/&quot;&gt;ossified&lt;/a&gt;\
+        \ and its content policy took &lt;a href=&quot;https://web.archive.org/web/20150710230652/https://www.reddit.com/rules/&quot;&gt;no\
+        \ position on hate&lt;/a&gt;. &lt;/p&gt; &lt;p&gt;When I returned in 2015,\
+        \ my top priority was creating a content policy to do two things: deal with\
+        \ hateful communities I had been immediately confronted with (like &lt;a href=&quot;/r/CoonTown&quot;&gt;r/CoonTown&lt;/a&gt;,\
+        \ which was explicitly designed to spread racist hate) and provide a clear\
+        \ policy of what\u2019s acceptable on Reddit and what\u2019s not. &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/3fx2au/content_policy_update/ctsqobs/&quot;&gt;We\
+        \ banned that community and others&lt;/a&gt; because they were \u201Cmaking\
+        \ Reddit worse\u201D but were not clear and direct about their role in sowing\
+        \ hate. We crafted our &lt;a href=&quot;https://web.archive.org/web/20150806171017/https://www.reddit.com/help/contentpolicy&quot;&gt;2015\
+        \ policy&lt;/a&gt; around behaviors adjacent to hate that were actionable\
+        \ and objective: violence and harassment, because we struggled to create a\
+        \ definition of hate and racism that we could defend and enforce at our scale.\
+        \ Through continual updates to these policies &lt;a href=&quot;https://www.reddit.com/r/modnews/comments/78p7bz/update_on_sitewide_rules_regarding_violent_content/&quot;&gt;2017&lt;/a&gt;,\
+        \ &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/863xcj/new_addition_to_sitewide_rules_regarding_the_use/&quot;&gt;2018&lt;/a&gt;,\
+        \ &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dbf9nj/changes_to_our_policy_against_bullying_and/&quot;&gt;2019&lt;/a&gt;,\
+        \ &lt;a href=&quot;https://www.reddit.com/r/redditsecurity/comments/emd7yx/updates_to_our_policy_around_impersonation/&quot;&gt;2020&lt;/a&gt;\
+        \ (and a broader definition of violence), we have removed thousands of hateful\
+        \ communities. &lt;/p&gt; &lt;p&gt;While we dealt with many communities themselves,\
+        \ we still did not provide the clarity\u2014and it showed, both in our enforcement\
+        \ and in confusion about where we stand. In 2018, I confusingly said &lt;a\
+        \ href=&quot;https://www.reddit.com/r/announcements/comments/3fx2au/content_policy_update/ctsqobs/&quot;&gt;racism\
+        \ is not against the rules, but also isn\u2019t welcome on Reddit&lt;/a&gt;.\
+        \ This gap between our content policy and our values has eroded our effectiveness\
+        \ in combating hate and racism on Reddit; I accept full responsibility for\
+        \ this.&lt;/p&gt; &lt;p&gt;This inconsistency has hurt our trust with our\
+        \ users and moderators and has made us slow to respond to problems. This was\
+        \ also true with &lt;a href=&quot;/r/the_donald&quot;&gt;r/the_donald&lt;/a&gt;,\
+        \ a community that relished in exploiting and detracting from the best of\
+        \ Reddit and that is now nearly disintegrated on their own accord. As we looked\
+        \ to our policies, \u201CBreaking Reddit\u201D was not a sufficient explanation\
+        \ for actioning a political subreddit, and I fear we let being technically\
+        \ correct get in the way of doing the right thing. Clearly, we should have\
+        \ quarantined it sooner.&lt;/p&gt; &lt;p&gt;The majority of our top communities\
+        \ have a rule banning hate and racism, which makes us proud, and is evidence\
+        \ why a &lt;a href=&quot;https://docs.house.gov/meetings/IF/IF16/20191016/110075/HHRG-116-IF16-Wstate-HuffmanS-20191016.pdf&quot;&gt;community-led\
+        \ approach is the only way to scale moderation online&lt;/a&gt;. That said,\
+        \ this is not a rule communities should have to write for themselves and we\
+        \ need to rebalance the burden of enforcement. I also accept responsibility\
+        \ for this. &lt;/p&gt; &lt;p&gt;Despite making significant progress over the\
+        \ years, we have to turn a mirror on ourselves and be willing to do the hard\
+        \ work of making sure we are living up to our values in our product and policies.\
+        \ This is a significant moment. We have a choice: return to the status quo\
+        \ or use this opportunity for change. We at Reddit are opting for the latter,\
+        \ and we will do our very best to be a part of the progress.&lt;/p&gt; &lt;p&gt;I\
+        \ will be sticking around for a while to answer questions as usual, but I\
+        \ also know that our policies and actions will speak louder than our comments.&lt;/p&gt;\
+        \ &lt;p&gt;Thanks,&lt;/p&gt; &lt;p&gt;Steve&lt;/p&gt; &lt;/div&gt;&lt;!--\
+        \ SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spez&quot;&gt;\
+        \ /u/spez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/gxas21/upcoming_changes_to_our_content_policy_our_board/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/gxas21/upcoming_changes_to_our_content_policy_our_board/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_gxas21</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/gxas21/upcoming_changes_to_our_content_policy_our_board/\"\
+        \ /><updated>2020-06-05T19:04:47+00:00</updated><published>2020-06-05T19:04:47+00:00</published><title>Upcoming\
+        \ changes to our content policy, our board, and where we\u2019re going from\
+        \ here</title></entry><entry><author><name>/u/con_commenter</name><uri>https://www.reddit.com/user/con_commenter</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As the 2020\
+        \ election approaches, we are updating our &lt;a href=&quot;https://www.reddithelp.com/en/categories/advertising/policy-guidelines/reddit-advertising-policy&quot;&gt;policy\
+        \ on political advertising&lt;/a&gt; to better reflect the role Reddit plays\
+        \ in the political conversation and bring high quality political ads to Redditors.&lt;/p&gt;\
+        \ &lt;p&gt;As a reminder, Reddit\u2019s advertising policy already forbids\
+        \ deceptive, untrue, or misleading advertising (political advertisers included).\
+        \ Further, each political ad is manually reviewed for messaging and creative\
+        \ content, we do not accept political ads from advertisers and candidates\
+        \ based outside the United States, and we only allow political ads at the\
+        \ federal level.&lt;/p&gt; &lt;p&gt;That said, beginning today, we will &lt;em&gt;also&lt;/em&gt;\
+        \ require political advertisers to work directly with our sales team and leave\
+        \ comments \u201Con\u201D for (at least) the first 24 hours of any given campaign.\
+        \ We will strongly encourage political advertisers to use this opportunity\
+        \ to engage directly with users in the comments.&lt;/p&gt; &lt;p&gt;In tandem,\
+        \ we are launching a subreddit dedicated to political ads transparency, which\
+        \ will list all political ad campaigns running on Reddit dating back to January\
+        \ 1, 2019. In this community, you will find information on the individual\
+        \ advertiser, their targeting, impressions, and spend on a per-campaign basis.\
+        \ We plan to consistently update this subreddit as new political ads run on\
+        \ Reddit, so we can provide transparency into our political advertisers and\
+        \ the conversation their ad(s) inspires. If you would like to follow along,\
+        \ please subscribe to &lt;a href=&quot;https://www.reddit.com/r/RedditPoliticalAds/&quot;&gt;r/RedditPoliticalAds&lt;/a&gt;\
+        \ for more information.&lt;/p&gt; &lt;p&gt;We hope this update will give you\
+        \ a chance to engage directly and transparently with political advertisers\
+        \ around important political issues, and provide a line of sight into the\
+        \ campaigns and political organizations seeking your attention. By requiring\
+        \ political advertisers to work closely with the Reddit Sales team, ensuring\
+        \ comments remain enabled for 24 hours, and establishing a political ads transparency\
+        \ subreddit, we believe we can better serve the Reddit ecosystem by spurring\
+        \ important conversation, enabling our users to provide their own feedback\
+        \ on political ads, and better protecting the community from inappropriate\
+        \ political ads, bad actors, and misinformation.&lt;/p&gt; &lt;p&gt;Please\
+        \ see the full updated political ads policy below:&lt;/p&gt; &lt;p&gt;&lt;em&gt;All\
+        \ political advertisements must be manually approved by Reddit. In order to\
+        \ be approved, the advertiser must be actively working with a Reddit Sales\
+        \ Representative (for more information on the managed sales process, please\
+        \ see \u201CAdvertising at Scale\u201D&lt;/em&gt; &lt;a href=&quot;https://www.redditinc.com/advertising&quot;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.)\
+        \ Political advertisers will also be asked to present additional information\
+        \ to verify their identity and/or authorization to place such advertisements.&lt;/em&gt;&lt;/p&gt;\
+        \ &lt;p&gt;&lt;em&gt;Political advertisements on Reddit include, but are not\
+        \ limited to, the following:&lt;/em&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;em&gt;Ads\
+        \ related to campaigns or elections, or that solicit political donations;&lt;/em&gt;&lt;/li&gt;\
+        \ &lt;li&gt;&lt;em&gt;Ads that promote voting or voter registration (discouraging\
+        \ voting or voter registration is not allowed);&lt;/em&gt;&lt;/li&gt; &lt;li&gt;&lt;em&gt;Ads\
+        \ promoting political merchandise (for example, products featuring a public\
+        \ office holder or candidate, political slogans, etc);&lt;/em&gt;&lt;/li&gt;\
+        \ &lt;li&gt;&lt;em&gt;Issue ads or advocacy ads pertaining to topics of potential\
+        \ legislative or political importance or placed by political organizations&lt;/em&gt;&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;&lt;em&gt;Advertisements in this category must include\
+        \ clear &amp;quot;paid for by&amp;quot; disclosures within the ad copy and/or\
+        \ creative, and must comply with all applicable laws and regulations, including\
+        \ those promulgated by the Federal Elections Commission. All political advertisements\
+        \ must also have comments enabled for at least the first 24 hours of the ad\
+        \ run. The advertiser is strongly encouraged to engage with Reddit users directly\
+        \ in these comments. The advertisement and any comments must still adhere\
+        \ to Reddit\u2019s&lt;/em&gt; &lt;a href=&quot;https://www.redditinc.com/policies/content-policy&quot;&gt;&lt;em&gt;Content\
+        \ Policy&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Please\
+        \ note additionally that information regarding political ad campaigns and\
+        \ their purchasing individuals or entities may be publicly disclosed by Reddit\
+        \ for transparency purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Finally,\
+        \ Reddit only accepts political advertisements within the United States, at\
+        \ the federal level. Political advertisements at the state and local level,\
+        \ or outside of the United States are not allowed.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;--------------&lt;/p&gt;\
+        \ &lt;p&gt;Please read our full advertising policy &lt;a href=&quot;https://www.reddithelp.com/en/categories/advertising/policy-guidelines/reddit-advertising-policy&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\
+        \ &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a\
+        \ href=&quot;https://www.reddit.com/user/con_commenter&quot;&gt; /u/con_commenter\
+        \ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/g0s6tn/changes_to_reddits_political_ads_policy/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/g0s6tn/changes_to_reddits_political_ads_policy/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_g0s6tn</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/g0s6tn/changes_to_reddits_political_ads_policy/\"\
+        \ /><updated>2020-04-13T21:35:38+00:00</updated><published>2020-04-13T21:35:38+00:00</published><title>Changes\
+        \ to Reddit\u2019s Political Ads Policy</title></entry><entry><author><name>/u/plgrmonedge</name><uri>https://www.reddit.com/user/plgrmonedge</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fub7xo/introducing_the_solidarity_award_a_100/&quot;&gt;\
+        \ &lt;img src=&quot;https://external-preview.redd.it/GNb-heqOnXBKjrihGyzTP_xUAUeg_fgVbchNY-mIsm8.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e4b7e6f2d42ba4ea58486d4b982a96774a446ac1&quot;\
+        \ alt=&quot;Introducing the Solidarity Award \u2014 A 100% contribution to\
+        \ the COVID-19 Solidarity Response Fund for WHO&quot; title=&quot;Introducing\
+        \ the Solidarity Award \u2014 A 100% contribution to the COVID-19 Solidarity\
+        \ Response Fund for WHO&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!--\
+        \ SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It\u2019s been incredible\
+        \ to witness the ways in which the Reddit community has come together to raise\
+        \ awareness, share information and resources, and support each other during\
+        \ a time of universal need. Across the platform, existing communities like\
+        \ &lt;a href=&quot;https://www.reddit.com/r/science/&quot;&gt;r/science&lt;/a&gt;,\
+        \ &lt;a href=&quot;https://www.reddit.com/r/askscience/&quot;&gt;r/askscience&lt;/a&gt;,\
+        \ and &lt;a href=&quot;https://www.reddit.com/r/worldnews/&quot;&gt;r/worldnews&lt;/a&gt;\
+        \ have joined newly established communities like &lt;a href=&quot;https://www.reddit.com/r/Coronavirus/&quot;&gt;r/Coronavirus&lt;/a&gt;\
+        \ and &lt;a href=&quot;https://www.reddit.com/r/COVID19/&quot;&gt;r/COVID19&lt;/a&gt;\
+        \ to share authoritative content and welcome important discussion every day.&lt;/p&gt;\
+        \ &lt;p&gt;At Reddit Inc., we\u2019ve also been &lt;a href=&quot;https://redditblog.com/2020/03/02/expert-conversation-on-coronavirus/&quot;&gt;working&lt;/a&gt;\
+        \ to curate expert discussions and surface the most reliable information for\
+        \ you. And today, we\u2019re excited to launch the Solidarity Award, which\
+        \ seeks to raise funds for fighting the COVID-19 pandemic via the &lt;a href=&quot;https://covid19responsefund.org/&quot;&gt;COVID-19\
+        \ Solidarity Response Fund&lt;/a&gt; for the &lt;a href=&quot;https://www.who.int/&quot;&gt;World\
+        \ Health Organization (WHO)&lt;/a&gt;. The fund -- which is powered by the\
+        \ &lt;a href=&quot;https://unfoundation.org/&quot;&gt;United Nations Foundation&lt;/a&gt;\
+        \ and the &lt;a href=&quot;https://www.swissphilanthropy.ch/en/&quot;&gt;Swiss\
+        \ Philanthropy Foundation&lt;/a&gt; -- supports &lt;a href=&quot;https://www.who.int/&quot;&gt;WHO\u2019\
+        s&lt;/a&gt; work to track and understand the spread of COVID-19, ensure patients\
+        \ get the care they need, frontline workers get essential supplies and information,\
+        \ and accelerate efforts to develop vaccines, tests, and treatments for the\
+        \ pandemic.&lt;/p&gt; &lt;p&gt;Starting today, you can purchase the Solidarity\
+        \ Award directly on Reddit desktop and mobile web (via PayPal or Stripe),\
+        \ and &lt;strong&gt;100% of the proceeds&lt;/strong&gt; will benefit the &lt;a\
+        \ href=&quot;https://covid19responsefund.org/&quot;&gt;COVID-19 Solidarity\
+        \ Response Fund&lt;/a&gt; for WHO.*&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Here\
+        \ are a few details on the Solidarity Award&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;\
+        \ &lt;li&gt;How to find the Award: The Solidarity Award can only be given\
+        \ on Reddit desktop and mobile web (not currently available to give on Mobile\
+        \ apps). You&amp;#39;ll find the award towards the bottom of the Medals section\
+        \ in our Award dialog. &lt;/li&gt; &lt;li&gt;The full price of the Award ($3.99)\
+        \ will be donated by Reddit to the United Nation Foundation\u2019s COVID-19\
+        \ Solidarity Response Fund for the &lt;a href=&quot;https://www.who.int/&quot;&gt;World\
+        \ Health Organization&lt;/a&gt;. More information on the fund is available\
+        \ at &lt;a href=&quot;http://www.covid19responsefund.org/&quot;&gt;www.covid19responsefund.org&lt;/a&gt;&lt;/li&gt;\
+        \ &lt;li&gt;Donors will receive a special Reddit Trophy, which will be added\
+        \ to users\u2019 trophy cases on their profile page (on or before 4/30/20)&lt;/li&gt;\
+        \ &lt;li&gt;Awards given are visible across all platforms&lt;/li&gt; &lt;/ul&gt;\
+        \ &lt;p&gt;See the award here:&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a\
+        \ href=&quot;https://preview.redd.it/9erskau1mgq41.png?width=96&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e19ac0910c2c11697f56868fcd6084f6e038008a&quot;&gt;Solidarity\
+        \ Award&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why are we doing this?&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;p&gt;We\u2019ve never felt more urgency or responsibility to fulfill\
+        \ our mission of bringing community and belonging to everyone in the world.\
+        \ The Solidarity Award is meant to complement the efforts of our users, moderators,\
+        \ and employees at Reddit by enabling community-wide charitable giving during\
+        \ a time of great need.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;A Heads Up:&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;p&gt;The team at Reddit worked quickly to enable the Solidarity Award.\
+        \ As with all new things at this scale, we are keeping an eye out for any\
+        \ bugs and issues that may arise, and will update the experience accordingly.&lt;/p&gt;\
+        \ &lt;p&gt;&lt;strong&gt;From Reddit to all of our users:&lt;/strong&gt; Stay\
+        \ safe, be vigilant, and take care of one another.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Reddit\
+        \ is covering the transaction fees associated with the purchase of the Solidarity\
+        \ Award&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted\
+        \ by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/plgrmonedge&quot;&gt;\
+        \ /u/plgrmonedge &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fub7xo/introducing_the_solidarity_award_a_100/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fub7xo/introducing_the_solidarity_award_a_100/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_fub7xo</id><media:thumbnail\
+        \ url=\"https://external-preview.redd.it/GNb-heqOnXBKjrihGyzTP_xUAUeg_fgVbchNY-mIsm8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e4b7e6f2d42ba4ea58486d4b982a96774a446ac1\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/fub7xo/introducing_the_solidarity_award_a_100/\"\
+        \ /><updated>2020-04-03T16:14:56+00:00</updated><published>2020-04-03T16:14:56+00:00</published><title>Introducing\
+        \ the Solidarity Award \u2014 A 100% contribution to the COVID-19 Solidarity\
+        \ Response Fund for WHO</title></entry><entry><author><name>/u/powerlanguage</name><uri>https://www.reddit.com/user/powerlanguage</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you\u2019\
+        ve participated in Reddit\u2019s April Fools\u2019 Day tradition before, you&amp;#39;ll\
+        \ know that this is the point where we normally share a confusing/cryptic\
+        \ message before pointing you toward some weird experience that we\u2019ve\
+        \ created for your enjoyment.&lt;/p&gt; &lt;p&gt;While we still plan to do\
+        \ that, we think it\u2019s important to acknowledge that this year, things\
+        \ feel quite a bit different. The world is experiencing a moment of incredible\
+        \ uncertainty and stress; and throughout this time, it\u2019s become even\
+        \ more clear how valuable Reddit is to millions of people looking for community,\
+        \ a place to seek and share information, provide support to one another, or\
+        \ simply to escape the reality of our collective \u2018new normal.\u2019&lt;/p&gt;\
+        \ &lt;p&gt;Over the past 5 years at Reddit, April Fools\u2019 Day has emerged\
+        \ as a time for us to create and discover new things with our community (that\u2019\
+        s all of you). It&amp;#39;s also a chance for us to celebrate you. Reddit\
+        \ only succeeds because millions of humans come together each day to make\
+        \ this collective system work. We create a project each April Fools\u2019\
+        \ Day to say thank you, and think it\u2019s important to continue that tradition\
+        \ this year too. We hope this year\u2019s experience will provide some insight\
+        \ and moments of delight during this strange and difficult time.&lt;/p&gt;\
+        \ &lt;p&gt;With that said, as promised:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;What\
+        \ makes you human?&lt;/em&gt; &lt;/p&gt; &lt;p&gt;&lt;em&gt;Can you recognize\
+        \ it in others?&lt;/em&gt; &lt;/p&gt; &lt;p&gt;&lt;em&gt;Are you sure?&lt;/em&gt;&lt;/p&gt;\
+        \ &lt;/blockquote&gt; &lt;p&gt;Visit &lt;a href=&quot;/r/Imposter&quot;&gt;r/Imposter&lt;/a&gt;\
+        \ in your browser, &lt;a href=&quot;https://apps.apple.com/us/app/reddit/id1064216828&quot;&gt;iOS&lt;/a&gt;,\
+        \ and &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.reddit.frontpage&quot;&gt;Android&lt;/a&gt;.&lt;/p&gt;\
+        \ &lt;p&gt;Have fun and be safe,&lt;/p&gt; &lt;p&gt;The Reddit Admins.&lt;/p&gt;\
+        \ &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a\
+        \ href=&quot;https://www.reddit.com/user/powerlanguage&quot;&gt; /u/powerlanguage\
+        \ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/ft3e3q/imposter/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/ft3e3q/imposter/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_ft3e3q</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/ft3e3q/imposter/\"\
+        \ /><updated>2020-04-01T16:48:17+00:00</updated><published>2020-04-01T16:48:17+00:00</published><title>Imposter</title></entry><entry><author><name>/u/LanterneRougeOG</name><uri>https://www.reddit.com/user/LanterneRougeOG</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fo7p5b/introducing_reddit_polls_an_allnew_post_type/&quot;&gt;\
+        \ &lt;img src=&quot;https://a.thumbs.redditmedia.com/N-frnMqRYp_XiaGds7kPbHf82a876RNKSQ1iw0LzHR0.jpg&quot;\
+        \ alt=&quot;Introducing Reddit Polls, An All-New Post Type&quot; title=&quot;Introducing\
+        \ Reddit Polls, An All-New Post Type&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;\
+        \ &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you\u2019\
+        re looking for an opinion on anything \u2014 the most underrated TV show of\
+        \ the nineties; the very best drugstore mascara; the most athletic NFL player\
+        \ of all-time \u2014 there\u2019s no better place to get honest answers and\
+        \ gauge consensus, than on Reddit.&lt;/p&gt; &lt;p&gt;Today, in an effort\
+        \ to elevate Reddit\u2019s diverse opinion-based content, we\u2019re excited\
+        \ to introduce Polls: a brand new post type that encourages redditors to share\
+        \ their opinion via voting. We\u2019ve been testing Polls with a dozen communities\
+        \ over the past couple months, and have gotten a lot of great feedback. We\
+        \ are excited to now release this post type to everyone!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why\
+        \ Polls?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;It can sometimes be tough for new\
+        \ redditors and lurkers to know where to start on Reddit, , and to feel a\
+        \ sense of community. We believe a simple post type that reduces the posting\
+        \ barrier will make it easier than ever for everyone to contribute to their\
+        \ favorite communities and engage in different ways.&lt;/p&gt; &lt;p&gt;Here\u2019\
+        s a look at some of our recent test polls&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/z45s3p889no41.png?width=2356&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cbd040f5e79e93b503c0a2d61378470c478e2305&quot;&gt;Viewing\
+        \ the results of a poll on new Reddit&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt;\
+        \ &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/ptccsbp89no41.png?width=1181&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4c561ac017d3db3cfed95a49b5ec5dba5cc751d0&quot;&gt;Trunks...the\
+        \ people have spoken&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Platform Support&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;iOS: Supports poll creation and voting&lt;/li&gt; &lt;li&gt;Android:\
+        \ Supports poll creation and voting &lt;strong&gt;(EDIT: there is a bug on\
+        \ old versions of Android that cause the app to crash for some redditors when\
+        \ they vote. Updating the app to the new version will fix it.)&lt;/strong&gt;&lt;/li&gt;\
+        \ &lt;li&gt;New Reddit (web): Supports poll creation and voting&lt;/li&gt;\
+        \ &lt;li&gt;Old Reddit (web): Does not support creation. At the bottom of\
+        \ a poll, redditors will see a link to view the poll. Clicking the link will\
+        \ open a new tab where they can view results and vote in the poll&lt;/li&gt;\
+        \ &lt;li&gt;Mobile web: Supports voting. No plans for poll creation support&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;And now a poll...&lt;/p&gt; &lt;p&gt;&lt;strong&gt;With\
+        \ everything going on in the world, how are you feeling?&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;p&gt;&lt;a href=&quot;https://www.reddit.com/poll/fo7p5b&quot;&gt;View\
+        \ Poll&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted\
+        \ by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/LanterneRougeOG&quot;&gt;\
+        \ /u/LanterneRougeOG &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fo7p5b/introducing_reddit_polls_an_allnew_post_type/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fo7p5b/introducing_reddit_polls_an_allnew_post_type/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_fo7p5b</id><media:thumbnail\
+        \ url=\"https://a.thumbs.redditmedia.com/N-frnMqRYp_XiaGds7kPbHf82a876RNKSQ1iw0LzHR0.jpg\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/fo7p5b/introducing_reddit_polls_an_allnew_post_type/\"\
+        \ /><updated>2020-03-24T16:10:28+00:00</updated><published>2020-03-24T16:10:28+00:00</published><title>Introducing\
+        \ Reddit Polls, An All-New Post Type</title></entry><entry><author><name>/u/jkohhey</name><uri>https://www.reddit.com/user/jkohhey</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fdi1rw/announcing_our_partnership_and_ama_with_crisis/&quot;&gt;\
+        \ &lt;img src=&quot;https://external-preview.redd.it/j_mwjX8nYUxWt_qPlOPXzOAKAyIAjjdofsp-HilzPuQ.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=017736ec3cc402d9a59767efc3e7b724fee0e09a&quot;\
+        \ alt=&quot;Announcing our partnership and AMA with Crisis Text Line&quot;\
+        \ title=&quot;Announcing our partnership and AMA with Crisis Text Line&quot;\
+        \ /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32;\
+        \ &lt;a href=&quot;https://www.reddit.com/user/jkohhey&quot;&gt; /u/jkohhey\
+        \ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;/r/modnews/comments/fdh4rr/announcing_our_partnership_and_ama_with_crisis/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/fdi1rw/announcing_our_partnership_and_ama_with_crisis/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_fdi1rw</id><media:thumbnail\
+        \ url=\"https://external-preview.redd.it/j_mwjX8nYUxWt_qPlOPXzOAKAyIAjjdofsp-HilzPuQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=017736ec3cc402d9a59767efc3e7b724fee0e09a\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/fdi1rw/announcing_our_partnership_and_ama_with_crisis/\"\
+        \ /><updated>2020-03-04T19:14:47+00:00</updated><published>2020-03-04T19:14:47+00:00</published><title>Announcing\
+        \ our partnership and AMA with Crisis Text Line</title></entry><entry><author><name>/u/spez</name><uri>https://www.reddit.com/user/spez</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR:\
+        \ Today we published our 2019&lt;/strong&gt; &lt;a href=&quot;https://www.redditinc.com/policies/transparency-report-2019&quot;&gt;&lt;strong&gt;Transparency\
+        \ Report&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. I\u2019ll stick around to\
+        \ answer your questions about the report (and other topics) in the comments.&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;p&gt;Hi all,&lt;/p&gt; &lt;p&gt;It\u2019s that time of year again when\
+        \ we share Reddit\u2019s annual transparency report.&lt;/p&gt; &lt;p&gt;We\
+        \ share this report each year because you have a right to know how user data\
+        \ is being managed by Reddit, and how it\u2019s both shared and not shared\
+        \ with government and non-government parties.&lt;/p&gt; &lt;p&gt;You\u2019\
+        ll find information on content removed from Reddit and requests for user information.\
+        \ This year, we\u2019ve expanded the report to include new data\u2014specifically,\
+        \ a breakdown of content policy removals, content manipulation removals, subreddit\
+        \ removals, and subreddit quarantines.&lt;/p&gt; &lt;h2&gt;By the numbers&lt;/h2&gt;\
+        \ &lt;p&gt;Since the &lt;a href=&quot;https://www.redditinc.com/policies/transparency-report-2019&quot;&gt;full\
+        \ report&lt;/a&gt; is rather long, I\u2019ll call out a few stats below:&lt;/p&gt;\
+        \ &lt;p&gt;&lt;strong&gt;ADMIN REMOVALS&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;\
+        \ &lt;li&gt;In 2019, we removed &lt;strong&gt;~53M&lt;/strong&gt; pieces of\
+        \ content in total, mostly for spam and content manipulation (e.g. brigading\
+        \ and vote cheating), exclusive of legal/copyright removals, which we track\
+        \ separately.&lt;/li&gt; &lt;li&gt;For &lt;a href=&quot;https://www.redditinc.com/policies/content-policy&quot;&gt;Content\
+        \ Policy&lt;/a&gt; violations, we removed &lt;ul&gt; &lt;li&gt;&lt;strong&gt;222k&lt;/strong&gt;\
+        \ &lt;strong&gt;pieces of content&lt;/strong&gt;,&lt;/li&gt; &lt;li&gt;&lt;strong&gt;55.9k\
+        \ accounts&lt;/strong&gt;, and&lt;/li&gt; &lt;li&gt;&lt;strong&gt;21.9k&lt;/strong&gt;\
+        \ &lt;strong&gt;subreddits&lt;/strong&gt; (&lt;strong&gt;87%&lt;/strong&gt;\
+        \ of which were removed for being unmoderated).&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;\
+        \ &lt;li&gt;Additionally, we quarantined &lt;strong&gt;256 subreddits&lt;/strong&gt;.&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;LEGAL REMOVALS&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;Reddit received &lt;strong&gt;110 requests&lt;/strong&gt;\
+        \ from government entities to remove content, of which we complied with &lt;strong&gt;37.3%&lt;/strong&gt;.&lt;/li&gt;\
+        \ &lt;li&gt;In 2019 we removed about &lt;strong&gt;5x more&lt;/strong&gt;\
+        \ content for copyright infringement than in 2018, largely due to copyright\
+        \ notices for adult-entertainment and notices targeting pieces of content\
+        \ that had already been removed.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;REQUESTS\
+        \ FOR USER INFORMATION&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;We received\
+        \ a total of &lt;strong&gt;772 requests&lt;/strong&gt; for user account information\
+        \ from law enforcement and government entities. &lt;ul&gt; &lt;li&gt;&lt;strong&gt;366&lt;/strong&gt;\
+        \ of these were emergency disclosure requests, mostly from US law enforcement\
+        \ (&lt;strong&gt;68%&lt;/strong&gt; of which we complied with).&lt;/li&gt;\
+        \ &lt;li&gt;&lt;strong&gt;406&lt;/strong&gt; were non-emergency requests (&lt;strong&gt;73%&lt;/strong&gt;\
+        \ of which we complied with); most were US subpoenas.&lt;/li&gt; &lt;li&gt;Reddit\
+        \ received an additional &lt;strong&gt;224 requests&lt;/strong&gt; to temporarily\
+        \ preserve certain user account information (&lt;strong&gt;86%&lt;/strong&gt;\
+        \ of which we complied with).&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Note:\
+        \ We carefully review each request for compliance with applicable laws and\
+        \ regulations. If we determine that a request is not legally valid, Reddit\
+        \ will challenge or reject it. (You can read more in our &lt;a href=&quot;https://www.redditinc.com/policies/privacy-policy&quot;&gt;Privacy\
+        \ Policy&lt;/a&gt; and &lt;a href=&quot;https://www.redditinc.com/policies/guidelines-for-law-enforcement&quot;&gt;Guidelines\
+        \ for Law Enforcement&lt;/a&gt;.)&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;While I\
+        \ have your attention...&lt;/h2&gt; &lt;p&gt;I\u2019d like to share an update\
+        \ about our thinking around quarantined communities.&lt;/p&gt; &lt;p&gt;When\
+        \ we &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/9jf8nh/revamping_the_quarantine_function/&quot;&gt;expanded\
+        \ our quarantine policy&lt;/a&gt;, we created an appeals process for sanctioned\
+        \ communities. One of the goals was to \u201Cforce subscribers to reconsider\
+        \ their behavior and incentivize moderators to make changes.\u201D While the\
+        \ policy attempted to hold moderators more accountable for enforcing healthier\
+        \ rules and norms, it didn\u2019t address the role that each member plays\
+        \ in the health of their community.&lt;/p&gt; &lt;p&gt;Today, we\u2019re making\
+        \ an update to address this gap: Users who consistently upvote policy-breaking\
+        \ content within quarantined communities will receive automated warnings,\
+        \ followed by further consequences like a temporary or permanent suspension.\
+        \ We hope this will encourage healthier behavior across these communities.&lt;/p&gt;\
+        \ &lt;h2&gt;If you\u2019ve read this far&lt;/h2&gt; &lt;p&gt;In addition to\
+        \ this report, we share news throughout the year from teams across Reddit,\
+        \ and if you like posts about what we\u2019re doing, you can stay up to date\
+        \ and talk to our teams in &lt;a href=&quot;/r/RedditSecurity&quot;&gt;r/RedditSecurity&lt;/a&gt;,\
+        \ &lt;a href=&quot;/r/ModNews&quot;&gt;r/ModNews&lt;/a&gt;, &lt;a href=&quot;/r/redditmobile&quot;&gt;r/redditmobile&lt;/a&gt;,\
+        \ and &lt;a href=&quot;/r/changelog&quot;&gt;r/changelog&lt;/a&gt;.&lt;/p&gt;\
+        \ &lt;p&gt;&lt;strong&gt;As usual, I\u2019ll be sticking around to answer\
+        \ your questions in the comments. AMA.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Update:\
+        \ I&amp;#39;m off for now. Thanks for questions, everyone.&lt;/p&gt; &lt;/div&gt;&lt;!--\
+        \ SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/spez&quot;&gt;\
+        \ /u/spez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/f8y9nx/spring_forward_into_reddits_2019_transparency/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/f8y9nx/spring_forward_into_reddits_2019_transparency/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_f8y9nx</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/f8y9nx/spring_forward_into_reddits_2019_transparency/\"\
+        \ /><updated>2020-02-24T21:12:22+00:00</updated><published>2020-02-24T21:12:22+00:00</published><title>Spring\
+        \ forward\u2026 into Reddit\u2019s 2019 transparency report</title></entry><entry><author><name>/u/worstnerd</name><uri>https://www.reddit.com/user/worstnerd</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/worstnerd&quot;&gt;\
+        \ /u/worstnerd &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/redditsecurity/comments/e74nml/suspected_campaign_from_russia_on_reddit/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/e75f07/suspected_campaign_from_russia_on_reddit/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_e75f07</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/e75f07/suspected_campaign_from_russia_on_reddit/\"\
+        \ /><updated>2019-12-06T22:11:15+00:00</updated><published>2019-12-06T22:11:15+00:00</published><title>Suspected\
+        \ Campaign from Russia on Reddit</title></entry><entry><author><name>/u/sodypop</name><uri>https://www.reddit.com/user/sodypop</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dpqd0z/the_extra_life_charity_award_raise_awareness_for/&quot;&gt;\
+        \ &lt;img src=&quot;https://b.thumbs.redditmedia.com/MGaOJeZl7UsmdtroJopYU_36HUNvQ9LUV5WFH_FJ2vI.jpg&quot;\
+        \ alt=&quot;The Extra Life Charity Award \u2014 Raise awareness for children's\
+        \ hospitals through gilding!&quot; title=&quot;The Extra Life Charity Award\
+        \ \u2014 Raise awareness for children's hospitals through gilding!&quot; /&gt;\
+        \ &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;\
+        \ Today we launched &lt;a href=&quot;https://i.redd.it/4xw2jtnwlqu31.png&quot;&gt;an\
+        \ Extra Life Award&lt;/a&gt; to help raise money and awareness for &lt;a href=&quot;https://www.extra-life.org/reddit&quot;&gt;Extra\
+        \ Life&lt;/a&gt;, a 24-hour gaming marathon charity benefiting Children&amp;#39;s\
+        \ Miracle Network Hospitals! This new award is available alongside Silver,\
+        \ Gold, and Platinum from now through Nov. 2, and Reddit will match the first\
+        \ $15,000 of ALL Coins purchased during this time.&lt;/p&gt; &lt;p&gt;&lt;a\
+        \ href=&quot;https://www.reddit.com/coins/&quot;&gt;&lt;strong&gt;Purchase\
+        \ Coins today and help support children&amp;#39;s hospitals!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\
+        \ &lt;p&gt;Here are a few details about the limited Extra Life Award:&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;The award costs 500 &lt;a href=&quot;https://www.reddit.com/coins/&quot;&gt;Coins&lt;/a&gt;\u2014\
+        the same cost as the Gold award&lt;/li&gt; &lt;li&gt;The recipient receives\
+        \ a week of &lt;a href=&quot;https://www.reddit.com/premium&quot;&gt;Premium&lt;/a&gt;\
+        \ and 100 coins\u2014the same benefits as Gold!&lt;/li&gt; &lt;li&gt;Anyone\
+        \ who gives this award, I&amp;#39;m told, has a heart of gold! (And also a\
+        \ shiny, new trophy at a later date!)&lt;/li&gt; &lt;li&gt;Reddit will match\
+        \ the first $15,000 of ALL Coin purchases from now through Nov. 2.&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;p&gt;See the award here in all its snazziness:&lt;/p&gt;\
+        \ &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/rinm7004pwv31.png?width=570&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b1bac7303a32d91eeac4b56bf7e6c3052e5bd462&quot;&gt;https://preview.redd.it/rinm7004pwv31.png?width=570&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b1bac7303a32d91eeac4b56bf7e6c3052e5bd462&lt;/a&gt;&lt;/p&gt;\
+        \ &lt;p&gt;&lt;strong&gt;But why?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Last week\
+        \ &lt;a href=&quot;https://www.reddit.com/r/blog/comments/dmj0sb/join_us_in_supporting_extra_life_a_24hour_gaming/&quot;&gt;we\
+        \ announced&lt;/a&gt; our 8th year partnering with Extra Life for our favorite\
+        \ annual tradition: playing &lt;del&gt;24&lt;/del&gt; 25 hours of video games\
+        \ to help raise money for sick kids. We&amp;#39;re not doing this alone! Thanks\
+        \ to some truly heroic redditors, we have already raised over $40,000 of our\
+        \ $150,000 goal!&lt;/p&gt; &lt;p&gt;However, we recognize not everyone can\
+        \ relinquish the majority of their weekend to play video games (we totally\
+        \ had other plans, we swear). We made this award to make it easier for even\
+        \ more people to get involved and help support one of our favorite charity\
+        \ events.&lt;/p&gt; &lt;p&gt;Have the opposite problem? If your wallet is\
+        \ feeling thin, you can also help by signing up to fundraise! Check out &lt;a\
+        \ href=&quot;https://www.reddit.com/r/blog/comments/dmj0sb/join_us_in_supporting_extra_life_a_24hour_gaming/&quot;&gt;our\
+        \ recent post&lt;/a&gt; for more details about joining Team Reddit.&lt;/p&gt;\
+        \ &lt;p&gt;&lt;strong&gt;Reminder: Extra Life Game Day is November 2nd!&lt;/strong&gt;&lt;/p&gt;\
+        \ &lt;p&gt;On this coming Saturday a raiding party of staffers here at Reddit\
+        \ HQ will be streaming our fundraising efforts live on our &lt;a href=&quot;https://www.twitch.tv/reddit&quot;&gt;Twitch\
+        \ stream&lt;/a&gt;. Tune in and join us for 25 hours of mind-melting gaming\
+        \ and delirious, sleep-deprived antics. From Fortnite to Untitled Goose Game,\
+        \ we&amp;#39;ll be playing a variety of games, so join us and you may even\
+        \ get to play head-to-head against an admin in your favorite game!&lt;/p&gt;\
+        \ &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a\
+        \ href=&quot;https://www.reddit.com/user/sodypop&quot;&gt; /u/sodypop &lt;/a&gt;\
+        \ &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dpqd0z/the_extra_life_charity_award_raise_awareness_for/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dpqd0z/the_extra_life_charity_award_raise_awareness_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_dpqd0z</id><media:thumbnail\
+        \ url=\"https://b.thumbs.redditmedia.com/MGaOJeZl7UsmdtroJopYU_36HUNvQ9LUV5WFH_FJ2vI.jpg\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/dpqd0z/the_extra_life_charity_award_raise_awareness_for/\"\
+        \ /><updated>2019-10-31T16:54:49+00:00</updated><published>2019-10-31T16:54:49+00:00</published><title>The\
+        \ Extra Life Charity Award \u2014 Raise awareness for children's hospitals\
+        \ through gilding!</title></entry><entry><author><name>/u/KeyserSosa</name><uri>https://www.reddit.com/user/KeyserSosa</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/KeyserSosa&quot;&gt;\
+        \ /u/KeyserSosa &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/redditsecurity/comments/dp9nbg/reddit_security_report_october_30_2019/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dpa8rn/reddit_security_report_october_30_2019/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_dpa8rn</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/dpa8rn/reddit_security_report_october_30_2019/\"\
+        \ /><updated>2019-10-30T17:59:14+00:00</updated><published>2019-10-30T17:59:14+00:00</published><title>Reddit\
+        \ Security Report -- October 30, 2019</title></entry><entry><author><name>/u/landoflobsters</name><uri>https://www.reddit.com/user/landoflobsters</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TL;DR is that\
+        \ we\u2019re updating our harassment and bullying policy so we can be more\
+        \ responsive to your reports. &lt;/p&gt; &lt;p&gt;Hey everyone, &lt;/p&gt;\
+        \ &lt;p&gt;We wanted to let you know about some changes that we are making\
+        \ today to our &lt;a href=&quot;https://www.redditinc.com/policies/content-policy&quot;&gt;Content\
+        \ Policy&lt;/a&gt; regarding content that &lt;a href=&quot;https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-threaten-harass-or-bully&quot;&gt;threatens,\
+        \ harasses, or bullies&lt;/a&gt;, which you can read in full &lt;a href=&quot;https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-threaten-harass-or-bully&quot;&gt;here&lt;/a&gt;.\
+        \ &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why are we doing this?&lt;/strong&gt;\
+        \ These changes, which were many months in the making, were primarily driven\
+        \ by feedback we received from you all, our users, indicating to us that there\
+        \ was a problem with the narrowness of our previous policy. Specifically,\
+        \ the old policy required a behavior to be \u201Ccontinued\u201D and/or \u201C\
+        systematic\u201D for us to be able to take action against it as harassment.\
+        \ It also set a high bar of users fearing for their real-world safety to qualify,\
+        \ which we think is an incorrect calibration. Finally, it wasn\u2019t clear\
+        \ that abuse toward both individuals and groups qualified under the rule.\
+        \ All these things meant that too often, instances of harassment and bullying,\
+        \ even egregious ones, were left unactioned. This was a bad user experience\
+        \ for you all, and frankly, it is something that made us feel not-great too.\
+        \ It was clearly a case of the letter of a rule not matching its spirit.&lt;/p&gt;\
+        \ &lt;p&gt;The changes we\u2019re making today are trying to better address\
+        \ that, as well as to give some meta-context about the spirit of this rule:\
+        \ chiefly, Reddit is a place for conversation. Thus, behavior whose core effect\
+        \ is to shut people out of that conversation through intimidation or abuse\
+        \ has no place on our platform. &lt;/p&gt; &lt;p&gt;We also hope that this\
+        \ change will take some of the burden off moderators, as it will expand our\
+        \ ability to take action at scale against content that the vast majority of\
+        \ subreddits already have their own rules against-- rules that we support\
+        \ and encourage.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;How will these changes work\
+        \ in practice?&lt;/strong&gt; We all know that context is critically important\
+        \ here, and can be tricky, particularly when we\u2019re talking about typed\
+        \ words on the internet. This is why we\u2019re hoping today\u2019s changes\
+        \ will help us better leverage human user reports. Where previously, we required\
+        \ the harassment victim to make the report to us directly, we\u2019ll now\
+        \ be investigating reports from bystanders as well. We hope this will alleviate\
+        \ some of the burden on the harassee. &lt;/p&gt; &lt;p&gt;You should also\
+        \ know that we\u2019ll also be harnessing some improved machine-learning tools\
+        \ to help us better sort and prioritize human user reports. But don\u2019\
+        t worry, machines will only help us organize and prioritize user reports.\
+        \ They won\u2019t be banning content or users on their own. A human user still\
+        \ has to report the content in order to surface it to us. Likewise, all actual\
+        \ decisions will still be made by a human admin. &lt;/p&gt; &lt;p&gt;As with\
+        \ any rule change, this will take some time to fully enforce. Our &lt;a href=&quot;https://www.reddit.com/r/changelog/comments/becbnx/hey_rchangelog_were_rolling_out_some_new/&quot;&gt;response\
+        \ times have improved significantly since the start of the year&lt;/a&gt;,\
+        \ but we\u2019re always striving to move faster. In the meantime, we encourage\
+        \ moderators to take this opportunity to examine their community rules and\
+        \ make sure that they are not creating an environment where bullying or harassment\
+        \ are tolerated or encouraged.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What should\
+        \ I do if I see content that I think breaks this rule?&lt;/strong&gt; As always,\
+        \ if you see or experience behavior that you believe is in violation of this\
+        \ rule, please use the report button [\u201CThis is abusive or harassing &amp;gt;\
+        \ \u201CIt\u2019s targeted harassment\u201D] to let us know. If you believe\
+        \ an entire user account or subreddit is dedicated to harassing or bullying\
+        \ behavior against an individual or group, we want to know that too; &lt;a\
+        \ href=&quot;https://www.reddit.com/report&quot;&gt;report it to us here&lt;/a&gt;.&lt;/p&gt;\
+        \ &lt;p&gt;Thanks. As usual, we\u2019ll hang around for a bit and answer questions.&lt;/p&gt;\
+        \ &lt;p&gt;Edit: typo. &lt;em&gt;Edit 2: Thanks for your questions, we&amp;#39;re\
+        \ signing off for now!&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt;\
+        \ &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/landoflobsters&quot;&gt;\
+        \ /u/landoflobsters &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dbf9nj/changes_to_our_policy_against_bullying_and/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/dbf9nj/changes_to_our_policy_against_bullying_and/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_dbf9nj</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/dbf9nj/changes_to_our_policy_against_bullying_and/\"\
+        \ /><updated>2019-09-30T17:46:18+00:00</updated><published>2019-09-30T17:46:18+00:00</published><title>Changes\
+        \ to Our Policy Against Bullying and Harassment</title></entry><entry><author><name>/u/worstnerd</name><uri>https://www.reddit.com/user/worstnerd</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/worstnerd&quot;&gt;\
+        \ /u/worstnerd &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://old.reddit.com/r/redditsecurity/comments/d6l41l/an_update_on_content_manipulation_and_an_upcoming/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/d6li3o/an_update_on_content_manipulation_and_an_upcoming/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_d6li3o</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/d6li3o/an_update_on_content_manipulation_and_an_upcoming/\"\
+        \ /><updated>2019-09-19T22:33:43+00:00</updated><published>2019-09-19T22:33:43+00:00</published><title>An\
+        \ Update on Content Manipulation\u2026 And an Upcoming Report</title></entry><entry><author><name>/u/Sn00byD00</name><uri>https://www.reddit.com/user/Sn00byD00</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Sn00byD00&quot;&gt;\
+        \ /u/Sn00byD00 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/pan/comments/csjqqy/announcing_rpan_a_limitedtime_live_broadcasting/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/ct2gcb/announcing_rpan_a_limitedtime_live_broadcasting/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_ct2gcb</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/ct2gcb/announcing_rpan_a_limitedtime_live_broadcasting/\"\
+        \ /><updated>2019-08-20T17:15:59+00:00</updated><published>2019-08-20T17:15:59+00:00</published><title>Announcing\
+        \ RPAN, a limited-time live broadcasting experience</title></entry><entry><author><name>/u/venkman01</name><uri>https://www.reddit.com/user/venkman01</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/&quot;&gt;\
+        \ &lt;img src=&quot;https://external-preview.redd.it/mxetgECWBzOXDlVg2wtnEssyBczIJQFZlum_1-Os9Zg.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f7ed52b21d8431d206e4858a89b65eb9a4630955&quot;\
+        \ alt=&quot;Introducing Community Awards!&quot; title=&quot;Introducing Community\
+        \ Awards!&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div\
+        \ class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;UPDATE (9/4):&lt;/strong&gt;\
+        \ Winners of the Coins Giveaway have been &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/eus5nc4?utm_source=share&amp;amp;utm_medium=web2x&quot;&gt;announced\
+        \ below in the stickied comment&lt;/a&gt;! Thanks to all who participated!&lt;/p&gt;\
+        \ &lt;p&gt;Hi all,&lt;/p&gt; &lt;p&gt;You may have noticed some new icons\
+        \ popping up alongside Silver, Gold, and Platinum Awards on your front page\
+        \ recently\u2014these are &lt;strong&gt;Community Awards&lt;/strong&gt;! We\
+        \ started testing these in a &lt;a href=&quot;https://www.reddit.com/r/changelog/comments/bf2jep/hi_rchangelog_were_back_for_another_exciting/&quot;&gt;small\
+        \ alpha group back in April&lt;/a&gt; and expanded the group to include more\
+        \ volunteer communities over the past couple of weeks.&lt;/p&gt; &lt;p&gt;As\
+        \ of today, Community Awards are now widely available for mods to create in\
+        \ their communities.&lt;/p&gt; &lt;h1&gt;What Are Community Awards?&lt;/h1&gt;\
+        \ &lt;p&gt;Community Awards give mods the ability to create custom Awards\
+        \ for redditors to use in their own communities. Mods can select the images,\
+        \ names, and Coin price of Awards to reflect their own communities. Awards\
+        \ can be priced between 500 Coins and 40,000 Coins.&lt;/p&gt; &lt;p&gt;Community\
+        \ Awards will be available to give in the communities that created them, in\
+        \ addition to Silver, Gold, and Platinum Awards (which are available site-wide).&lt;/p&gt;\
+        \ &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/fsqt84ep6bc31.png?width=1928&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=735a9a37bb33c8d2139d9982cd68908c920ed19f&quot;&gt;A\
+        \ highly decorated post on r/DunderMifflin, featuring Silver, Gold, and Platinum,\
+        \ as well as the new Community Awards!&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In the\
+        \ above screenshot from &lt;a href=&quot;https://www.reddit.com/r/DunderMifflin/&quot;&gt;r/DunderMifflin&lt;/a&gt;,\
+        \ you can see a few new icons in between Gold and Silver. These are &lt;strong&gt;Community\
+        \ Awards&lt;/strong&gt;.&lt;/p&gt; &lt;h1&gt;What Are the Benefits of Community\
+        \ Awards?&lt;/h1&gt; &lt;p&gt;Community Awards are a new way of showing appreciation\
+        \ to posters and commenters. But unlike Silver, Gold and Platinum, when Community\
+        \ Awards are used, they give Coins back to that community through the &lt;strong&gt;Community\
+        \ Bank&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;With this new update, 20% of Coins\
+        \ spent on Community Awards will go into a bank of Community Coins. For example,\
+        \ in the &lt;a href=&quot;https://www.reddit.com/r/IAmA/&quot;&gt;r/IAmA&lt;/a&gt;\
+        \ community if you give the \u201CStar of Excellence\u201D Award (2,000 Coins)\
+        \ to another user, &lt;a href=&quot;https://www.reddit.com/r/IAmA/&quot;&gt;r/IAmA&lt;/a&gt;\
+        \ automatically gets 400 Coins in its Community Bank.&lt;/p&gt; &lt;p&gt;Mods\
+        \ can access the Community Bank to give\u2026&lt;/p&gt; &lt;h1&gt;Mod-Exclusive\
+        \ Awards&lt;/h1&gt; &lt;p&gt;Moderators will now have the ability to give\
+        \ Mod-Exclusive Awards, to recognize users for high-quality content that is\
+        \ representative of their community.&lt;/p&gt; &lt;p&gt;Mod-Exclusive Awards\
+        \ will draw from the bank of Community Coins, so Moderators don\u2019t need\
+        \ to spend money to reward users (e.g., for community contests). Mod-Exclusive\
+        \ Awards also have the additional benefit of 1 or more months of Reddit Premium,\
+        \ depending on the Award price.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Mod-Award costing\
+        \ &lt;strong&gt;1,800 Coins&lt;/strong&gt; = &lt;strong&gt;1 month&lt;/strong&gt;\
+        \ of Reddit Premium&lt;/li&gt; &lt;li&gt;Mod-Award costing &lt;strong&gt;5,400\
+        \ Coins&lt;/strong&gt; = &lt;strong&gt;3 months&lt;/strong&gt; of Reddit Premium&lt;/li&gt;\
+        \ &lt;li&gt;\u2026 and so on!&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Here\u2019s\
+        \ what Mod-Exclusive Awards look like on posts / comments:&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt;\
+        \ &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/rek8d44u6bc31.png?width=300&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=56520aaebbfdee38fd9cb0f80bc6339924222e40&quot;&gt;This\
+        \ example shows the coveted Golden Toaster Award, which you can view in a\
+        \ larger size by hovering over the icon.&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;Which\
+        \ Communities Are Eligible for Community Awards?&lt;/h1&gt; &lt;p&gt;Community\
+        \ Awards are available to public, SFW, non-banned, non-quarantined communities.&lt;/p&gt;\
+        \ &lt;h1&gt;Great! How Do I Go and Create Awards Now?&lt;/h1&gt; &lt;p&gt;Check\
+        \ out &lt;a href=&quot;https://www.reddit.com/r/modnews/comments/chdxkh/community_awards_creating_new_awards_for_users/&quot;&gt;our\
+        \ companion post on r/modnews&lt;/a&gt; for all the details on how mods can\
+        \ create Awards!&lt;/p&gt; &lt;p&gt;We are looking forward to seeing all your\
+        \ creativity with these new Awards, but &lt;strong&gt;please do note these\
+        \ important considerations&lt;/strong&gt; when creating Awards:&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;They must comply with &lt;a href=&quot;https://www.redditinc.com/policies/content-policy&quot;&gt;Reddit\u2019\
+        s Content Policy&lt;/a&gt;;&lt;/li&gt; &lt;li&gt;They must not violate intellectual\
+        \ property rights of others; and&lt;/li&gt; &lt;li&gt;They must be SFW.&lt;/li&gt;\
+        \ &lt;/ul&gt; &lt;h1&gt;A Coin Giveaway: Mods, Create Some New Awards!&lt;/h1&gt;\
+        \ &lt;p&gt;We&amp;#39;ve seen some pretty great Awards pop up in a few subs\
+        \ already, but now that they&amp;#39;re available to more mod teams, we\u2019\
+        re seeing which community can create the best collection of six Community\
+        \ Awards!&lt;/p&gt; &lt;p&gt;Participating is pretty simple: &lt;strong&gt;If\
+        \ you are a mod, create an amazing set of six Community Awards that exemplifies\
+        \ the culture of your community, and reply to the stickied comment below with\
+        \ the name of your community.&lt;/strong&gt; For 20 random entries, we will\
+        \ put 40,000 Coins into to each community&amp;#39;s Community Bank, to give\
+        \ back to users in your communities!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt;\
+        \ &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/venkman01&quot;&gt;\
+        \ /u/venkman01 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_chdx1h</id><media:thumbnail\
+        \ url=\"https://external-preview.redd.it/mxetgECWBzOXDlVg2wtnEssyBczIJQFZlum_1-Os9Zg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7ed52b21d8431d206e4858a89b65eb9a4630955\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/chdx1h/introducing_community_awards/\"\
+        \ /><updated>2019-07-24T20:59:18+00:00</updated><published>2019-07-24T20:59:18+00:00</published><title>Introducing\
+        \ Community Awards!</title></entry><entry><author><name>/u/mjmayank</name><uri>https://www.reddit.com/user/mjmayank</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Edit (2019/11/26):\
+        \ This feature has been delayed until 2020&lt;/p&gt; &lt;p&gt;Edit (2020/03/30):\
+        \ We released a feature where you will get a push notification when you get\
+        \ a new follower. If you have your push notifications enabled on our mobile\
+        \ apps, or desktop notifications enabled, you should receive one. We are working\
+        \ on expanding this feature to all users, even without push notifications.\
+        \ The follower list is still delayed until later this year.&lt;/p&gt; &lt;p&gt;Hi\
+        \ everyone,&lt;/p&gt; &lt;p&gt;We collect a lot of feedback from you all,\
+        \ and one theme we\u2019ve heard consistently from users is that many of you\
+        \ want more visibility when users follow you. As we move the new profiles\
+        \ out of beta, we wanted to share a transparency change we are making. In\
+        \ the coming months, we will allow people to see which users follow them.&lt;/p&gt;\
+        \ &lt;p&gt;We know that this may be a change from existing expectations, so\
+        \ we want to give you time to update your settings before moving forward with\
+        \ this. In the immediate future (starting Aug 19th, 2019), this will only\
+        \ affect new follows made. In about 3 months, we will make it possible to\
+        \ see your full list of followers. This would include follows made while profiles\
+        \ were in beta.&lt;/p&gt; &lt;p&gt;We plan to send a PM to all affected users,\
+        \ but wanted to make this public post as well so that you aren\u2019t surprised\
+        \ when you receive it. To be clear, the usernames will only be visible to\
+        \ the user who was followed. No one will be able to look up your full list\
+        \ of subscriptions/follows and no one else will be able to see a list of followers\
+        \ of a profile.&lt;/p&gt; &lt;p&gt;If you are someone who follows other users,\
+        \ please take a second to examine your subscription/follow list and make sure\
+        \ you are comfortable with those users being aware that you follow them. If\
+        \ you are someone who has followers, we will make another post when the ability\
+        \ to view your followers has been released. We\u2019ll stick around in the\
+        \ comments for a bit if you have questions. If there are other features you\u2019\
+        d like to see for profiles, please let us know!&lt;/p&gt; &lt;p&gt;Thanks!&lt;/p&gt;\
+        \ &lt;p&gt;Edit: updated 8/29 to Aug 29th, 2019 as it&amp;#39;s a more clear\
+        \ date format&lt;/p&gt; &lt;p&gt;Edit: updated Aug 29th to Aug 19th to match\
+        \ release date of the start of the feature rollout&lt;/p&gt; &lt;/div&gt;&lt;!--\
+        \ SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mjmayank&quot;&gt;\
+        \ /u/mjmayank &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/cevm31/update_regarding_user_profile_transparency/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/cevm31/update_regarding_user_profile_transparency/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content><id>t3_cevm31</id><link\
+        \ href=\"https://www.reddit.com/r/announcements/comments/cevm31/update_regarding_user_profile_transparency/\"\
+        \ /><updated>2019-07-18T17:37:35+00:00</updated><published>2019-07-18T17:37:35+00:00</published><title>Update\
+        \ regarding user profile transparency</title></entry><entry><author><name>/u/SingShredCode</name><uri>https://www.reddit.com/user/SingShredCode</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/bpfyx1/introducing_custom_feeds_plus_a_community_contest/&quot;&gt;\
+        \ &lt;img src=&quot;https://external-preview.redd.it/c8Tl2CgY9V2I1iaLKEN5Knz1wtIvYAEbdANJID_Szyo.gif?width=320&amp;amp;crop=smart&amp;amp;s=320578b2da00c55d1e5c5343bdb20e073b5d8976&quot;\
+        \ alt=&quot;Introducing Custom Feeds (plus: a Community Contest with modest\
+        \ prizes!)&quot; title=&quot;Introducing Custom Feeds (plus: a Community Contest\
+        \ with modest prizes!)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!--\
+        \ SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello hello,&lt;/p&gt;\
+        \ &lt;p&gt;We\u2019ve made some changes to Multireddits that we\u2019d like\
+        \ to share with you. Also, a fun contest! Let\u2019s get to it...&lt;/p&gt;\
+        \ &lt;h2&gt;What\u2019s New&lt;/h2&gt; &lt;p&gt;&lt;em&gt;New Name: Multireddits\
+        \ \u2192 Custom Feeds&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Multireddits have been\
+        \ around a &lt;a href=&quot;https://www.reddit.com/r/blog/comments/1iwd5i/new_create_and_share_your_own_collections_of/&quot;&gt;long\
+        \ time&lt;/a&gt;. They are a way for redditors to curate communities into\
+        \ shareable feeds and can help newer redditors discover more communities.\
+        \ However, they haven\u2019t been widely adopted. In order to prevent confusion,\
+        \ we will be changing the name from Multireddits to \u201CCustom Feeds.\u201D\
+        \ Sometimes simple is better.&lt;/p&gt; &lt;p&gt;&lt;em&gt;More Support&lt;/em&gt;&lt;/p&gt;\
+        \ &lt;p&gt;We\u2019ve added more support to new Reddit and our iOS app for\
+        \ Custom Feeds. Now, redditors can create a new Custom Feed, add or remove\
+        \ communities from them, duplicate other redditors&amp;#39; feeds, and change\
+        \ the privacy settings. Previously, this was something you could only do from\
+        \ old Reddit. We\u2019ll be adding support for Custom Feeds on Android in\
+        \ the near future.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/jox6inka4my21.png?width=3360&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c92d7268dbcd46b35d6d2380b8316d4471dc1aac&quot;&gt;iOS\
+        \ Screenshot&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;New Follow Functionality&lt;/em&gt;&lt;/p&gt;\
+        \ &lt;p&gt;You can now follow another redditor\u2019s Custom Feed (as long\
+        \ as it\u2019s set to Public). This means that when you follow a feed it will\
+        \ appear on your list of Custom Feed subscriptions and when that redditor\
+        \ adds another community to the feed, you\u2019ll see that update the next\
+        \ time you open the feed. This will be super useful for communities that want\
+        \ to keep a running feed of related communities, or for folks that have a\
+        \ specific ever-evolving interest that they want to share with others.&lt;/p&gt;\
+        \ &lt;p&gt;&lt;a href=&quot;https://preview.redd.it/a6ztwd2b4my21.png?width=3360&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4576c32bf987c0dadf6a41024134387f96b45fb4&quot;&gt;Follow\
+        \ on new Reddit&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Improved Sharing&lt;/em&gt;&lt;/p&gt;\
+        \ &lt;p&gt;We\u2019ve made some tweaks to the URL structure of your Custom\
+        \ Feed so that it\u2019s easier to share with others. No more accidentally\
+        \ sharing a URL with /me/ in it that won\u2019t work for anyone else. We\u2019\
+        ve also created a new privacy category for public custom feeds, Hidden, that\
+        \ can be accessed by anyone with the link but will not show up on your profile.&lt;/p&gt;\
+        \ &lt;p&gt;&lt;em&gt;Spaces&lt;/em&gt;&lt;/p&gt; &lt;p&gt;You can now have\
+        \ spaces in the name of your Custom Feed. &lt;a href=&quot;https://media.giphy.com/media/Wyt6sLEjKjaFjzybth/giphy.gif&quot;&gt;Enough\
+        \ said.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Mix and Match&lt;/em&gt;&lt;/p&gt;\
+        \ &lt;p&gt;Follow a mix of communities and profiles.&lt;/p&gt; &lt;p&gt;&lt;em&gt;Coming\
+        \ Soon&lt;/em&gt;&lt;/p&gt; &lt;p&gt;In the near future communities will be\
+        \ able to create Custom Feeds that are owned by the community, rather than\
+        \ an individual. This will also support turning the Related Communities sidebar\
+        \ widget into a feed. We are also going to be building ways for you to see\
+        \ popular and trending Custom Feeds.&lt;/p&gt; &lt;h2&gt;The Contest&lt;/h2&gt;\
+        \ &lt;p&gt;We are investing in this feature because we believe redditors are\
+        \ great at finding niche communities and we want more people to discover all\
+        \ of the unique communities that we have. Now for the &lt;a href=&quot;https://media.giphy.com/media/30LbRh69K3fO/giphy.gif&quot;&gt;gold&lt;/a&gt;\
+        \ part! We are holding a one-week contest for the best Custom Feeds created\
+        \ by redditors. The winners will receive Coins and bragging rights.&lt;/p&gt;\
+        \ &lt;p&gt;To submit your Custom Feed, reply to the top-level sticky comment\
+        \ with a link to your Custom Feed and the category it best fits under. &lt;strong&gt;It\
+        \ must be public.&lt;/strong&gt; Please only submit one feed per category.&lt;/p&gt;\
+        \ &lt;p&gt;Here are the categories that we will award winners from:&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;Aww&lt;/li&gt; &lt;li&gt;Artist Resources&lt;/li&gt;\
+        \ &lt;li&gt;Beauty&lt;/li&gt; &lt;li&gt;Books &amp;amp; Writing&lt;/li&gt;\
+        \ &lt;li&gt;Cool Pictures (images only)&lt;/li&gt; &lt;li&gt;Discussion (text\
+        \ only)&lt;/li&gt; &lt;li&gt;Fashion&lt;/li&gt; &lt;li&gt;Food &amp;amp; Cooking&lt;/li&gt;\
+        \ &lt;li&gt;Health &amp;amp; Fitness&lt;/li&gt; &lt;li&gt;Music&lt;/li&gt;\
+        \ &lt;li&gt;Parenting&lt;/li&gt; &lt;li&gt;Quirky&lt;/li&gt; &lt;li&gt;Sports&lt;/li&gt;\
+        \ &lt;li&gt;Travel&lt;/li&gt; &lt;li&gt;Wholesome&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We\u2019\
+        ll be picking winners based on a combination of the number of followers the\
+        \ feed has, how many upvotes their comment entry has, and our internal voting.\
+        \ Winners will be announced in a follow-up post next week.&lt;/p&gt; &lt;p&gt;Here\
+        \ are some custom feeds to get you started (many of which are mine):&lt;/p&gt;\
+        \ &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/user/singshredcode/m/singshredcodesubbies/&quot;&gt;Some\
+        \ of my favorite communities&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Some of my &lt;a\
+        \ href=&quot;https://www.reddit.com/user/singshredcode/m/voices/&quot;&gt;voice\
+        \ and singing communities&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/user/singshredcode/m/animal_subbies/&quot;&gt;Animal\
+        \ Subbies&lt;/a&gt; (If you know of any cute-animal subs I missed, please\
+        \ comment below)&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/user/mujhair/m/asks/&quot;&gt;Asks&lt;/a&gt;&lt;/li&gt;\
+        \ &lt;li&gt;Some &lt;a href=&quot;https://www.reddit.com/user/reddit/m/admin_faves/&quot;&gt;Admins\u2019\
+        \ favorites&lt;/a&gt; that were mentioned in this &lt;a href=&quot;https://www.reddit.com/r/AskReddit/comments/afzfa7/admins_of_reddit_whats_your_favorite_subreddit/&quot;&gt;r/askreddit\
+        \ thread&lt;/a&gt; a few months ago&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;See the\
+        \ sticky comment below to enter your Custom Feed.&lt;/p&gt; &lt;p&gt;Edit:\
+        \ Added a quirky category&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32;\
+        \ submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SingShredCode&quot;&gt;\
+        \ /u/SingShredCode &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/bpfyx1/introducing_custom_feeds_plus_a_community_contest/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/bpfyx1/introducing_custom_feeds_plus_a_community_contest/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_bpfyx1</id><media:thumbnail\
+        \ url=\"https://external-preview.redd.it/c8Tl2CgY9V2I1iaLKEN5Knz1wtIvYAEbdANJID_Szyo.gif?width=320&amp;crop=smart&amp;s=320578b2da00c55d1e5c5343bdb20e073b5d8976\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/bpfyx1/introducing_custom_feeds_plus_a_community_contest/\"\
+        \ /><updated>2019-05-16T18:12:56+00:00</updated><published>2019-05-16T18:12:56+00:00</published><title>Introducing\
+        \ Custom Feeds (plus: a Community Contest with modest prizes!)</title></entry><entry><author><name>/u/worstnerd</name><uri>https://www.reddit.com/user/worstnerd</uri></author><category\
+        \ term=\"announcements\" label=\"r/announcements\"/><content type=\"html\"\
+        >&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/announcements/comments/blev4z/how_to_keep_your_reddit_account_safe/&quot;&gt;\
+        \ &lt;img src=&quot;https://b.thumbs.redditmedia.com/4EGkxZNzrzt-RCtd035cWyO0BipdbDVuPwi4W2v4TyM.jpg&quot;\
+        \ alt=&quot;How to keep your Reddit account safe&quot; title=&quot;How to\
+        \ keep your Reddit account safe&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;\
+        \ &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/worstnerd&quot;&gt;\
+        \ /u/worstnerd &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/redditsecurity/comments/bletrr/how_to_keep_your_reddit_account_safe/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;\
+        \ &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/announcements/comments/blev4z/how_to_keep_your_reddit_account_safe/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;\
+        \ &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><id>t3_blev4z</id><media:thumbnail\
+        \ url=\"https://b.thumbs.redditmedia.com/4EGkxZNzrzt-RCtd035cWyO0BipdbDVuPwi4W2v4TyM.jpg\"\
+        \ /><link href=\"https://www.reddit.com/r/announcements/comments/blev4z/how_to_keep_your_reddit_account_safe/\"\
+        \ /><updated>2019-05-06T17:14:06+00:00</updated><published>2019-05-06T17:14:06+00:00</published><title>How\
+        \ to keep your Reddit account safe</title></entry></feed>"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '110121'
+      Content-Type:
+      - application/atom+xml; charset=UTF-8
+      Date:
+      - Sat, 05 Mar 2022 11:04:29 GMT
+      Server:
+      - snooserv
+      Set-Cookie:
+      - session_tracker=SwxVQxZ40jUN8sZtDn.0.1646478269409.Z0FBQUFBQmlJME85YU9tN1ptVG1vbjVuU1FfLVBCUTMxMjA0QzZRdzBmMlE3NXBjUF9hNDlOTVB1NlNHajZHRlBKYklOVWVHR2Vnem44b0tXYUkwQnNUcm5UM3cwSmliM0tyckN3ZEFicjIzRk5zdDZwNnVWTDhxTGp1bFdCYkFJR0lMNmdXdDY4czA;
+        Domain=reddit.com; Max-Age=7199; Path=/; expires=Sat, 05-Mar-2022 13:04:29
+        GMT; secure; SameSite=None; Secure
+      - csv=2; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None
+      - edgebucket=jxFojeAw4ZRIiAdShD; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains; preload
+      Via:
+      - 1.1 varnish
+      X-Moose:
+      - majestic
+      cache-control:
+      - max-age=0, must-revalidate
+      x-content-type-options:
+      - nosniff
+      x-frame-options:
+      - SAMEORIGIN
+      x-ua-compatible:
+      - IE=edge
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+version: 1
