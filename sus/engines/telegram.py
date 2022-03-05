@@ -68,6 +68,7 @@ class Telegram(Parser):
         return {"publishedDate": datetime.datetime.strptime(time, "%Y-%m-%dT%H:%M:%S%z").replace(tzinfo=utc)}
 
     def GetURL(self, element: object, **kwargs):
+        uu =  element.xpath('.//div[@class="tgme_widget_message js-widget_message"]/@data-post')
         url = "https://t.me/" + \
             element.xpath(
                 './/div[@class="tgme_widget_message js-widget_message"]/@data-post')[0]
@@ -104,7 +105,7 @@ class Telegram(Parser):
         count = int(kwargs.get("count", 0))
 
         last_published = datetime.datetime.now().replace(tzinfo=utc)
-        last_id = 99999999999999999
+        last_id, trigger = 99999999999999999, 0
         cur_count = 0
 
         self.base_url, url = self.Prepare_url(url)
@@ -113,7 +114,7 @@ class Telegram(Parser):
         headers = session.headers
         headers.update({"content-type": "application/json",
                        "X-Requested-With": "XMLHttpRequest"})
-        while last_published > limit_time:
+        while last_published > limit_time and trigger != 99999999999999999:
             response_text = None
             curr_last_published = last_published
             for _ in range(3):
@@ -137,10 +138,12 @@ class Telegram(Parser):
             log.info(f"Found {len(elements)} publications, parsing...")
             for e in elements:
                 curr_last_id, publ = self.ParseOne(e)
+                trigger = curr_last_id
                 if not publ:
                     continue
 
                 last_id = min(last_id, curr_last_id)
+                
 
                 if last_id < limit_id and last_id != 99999999999999999:
                     break
